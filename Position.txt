@@ -1,0 +1,500 @@
+10100001,Nhân viên hành chính,Văn phòng,1.6
+10100002,Nhân viên hành chính,Văn phòng,1.6
+10100003,Nhân viên nhân sự,Văn phòng,1.8
+10100004,Nhân viên nhân sự,Văn phòng,1.8
+10100005,Nhân viên nhân sự,Văn phòng,1.8
+10100006,Nhân viên nhân sự,Văn phòng,1.8
+10100007,Nhân viên hành chính,Văn phòng,1.6
+10100008,Nhân viên nhân sự,Văn phòng,1.8
+10100009,Nhân viên nhân sự,Văn phòng,1.8
+10100010,Nhân viên hành chính,Văn phòng,1.6
+10100011,Nhân viên hành chính,Văn phòng,1.6
+10100012,Phó phòng nhân sự,Văn phòng,2.5
+10100013,Nhân viên hành chính,Văn phòng,1.6
+10100014,Nhân viên nhân sự,Văn phòng,1.8
+10100015,Nhân viên nhân sự,Văn phòng,1.8
+10100016,Nhân viên nhân sự,Văn phòng,1.8
+10100017,Nhân viên hành chính,Văn phòng,1.6
+10100018,Nhân viên hành chính,Văn phòng,1.6
+10100019,Nhân viên nhân sự,Văn phòng,1.8
+10100020,Nhân viên nhân sự,Văn phòng,1.8
+10100021,Trưởng phòng nhân sự,Văn phòng,3.0
+10100022,Nhân viên hành chính,Văn phòng,1.6
+10100023,Nhân viên hành chính,Văn phòng,1.6
+10100024,Nhân viên nhân sự,Văn phòng,1.8
+10100025,Nhân viên nhân sự,Văn phòng,1.8
+10200026,Kế toán viên,Văn phòng,2.0
+10200027,Kế toán viên,Văn phòng,2.0
+10200028,Kế toán viên,Văn phòng,2.0
+10200029,Thủ quỹ,Văn phòng,1.8
+10200030,Kế toán viên,Văn phòng,2.0
+10200031,Kế toán viên,Văn phòng,2.0
+10200032,Kế toán viên,Văn phòng,2.0
+10200033,Trưởng phòng kế toán,Văn phòng,3.0
+10200034,Kế toán viên,Văn phòng,2.0
+10200035,Kế toán viên,Văn phòng,2.0
+10200036,Thủ quỹ,Văn phòng,1.8
+10200037,Kế toán viên,Văn phòng,2.0
+10200038,Thủ quỹ,Văn phòng,1.8
+10200039,Kế toán viên,Văn phòng,2.0
+10200040,Kế toán viên,Văn phòng,2.0
+10200041,Kế toán viên,Văn phòng,2.0
+10200042,Kế toán viên,Văn phòng,2.0
+10200043,Phó phòng kế toán,Văn phòng,2.5
+10200044,Kế toán viên,Văn phòng,2.0
+10200045,Kế toán viên,Văn phòng,2.0
+10300046,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300047,Công nhân may,Công nhân,1.2
+10300048,Công nhân may,Công nhân,1.2
+10300049,Công nhân may,Công nhân,1.2
+10300050,Công nhân may,Công nhân,1.2
+10300051,Công nhân may,Công nhân,1.2
+10300052,Công nhân may,Công nhân,1.2
+10300053,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300054,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300055,Công nhân may,Công nhân,1.2
+10300056,Tổ trưởng sản xuất,Công nhân,1.5
+10300057,Công nhân may,Công nhân,1.2
+10300058,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300059,Công nhân may,Công nhân,1.2
+10300060,Công nhân cắt vải,Công nhân,1.25
+10300061,Công nhân may,Công nhân,1.2
+10300062,Công nhân may,Công nhân,1.2
+10300063,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300064,Công nhân may,Công nhân,1.2
+10300065,Công nhân may,Công nhân,1.2
+10300066,Công nhân may,Công nhân,1.2
+10300067,Công nhân may,Công nhân,1.2
+10300068,Công nhân cắt vải,Công nhân,1.25
+10300069,Công nhân may,Công nhân,1.2
+10300070,Công nhân may,Công nhân,1.2
+10300071,Công nhân may,Công nhân,1.2
+10300072,Công nhân may,Công nhân,1.2
+10300073,Công nhân may,Công nhân,1.2
+10300074,Công nhân may,Công nhân,1.2
+10300075,Công nhân may,Công nhân,1.2
+10300076,Công nhân may,Công nhân,1.2
+10300077,Công nhân may,Công nhân,1.2
+10300078,Công nhân may,Công nhân,1.2
+10300079,Phó quản đốc,Văn phòng,2.2
+10300080,Công nhân may,Công nhân,1.2
+10300081,Công nhân may,Công nhân,1.2
+10300082,Công nhân may,Công nhân,1.2
+10300083,Công nhân may,Công nhân,1.2
+10300084,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300085,Công nhân may,Công nhân,1.2
+10300086,Công nhân may,Công nhân,1.2
+10300087,Công nhân may,Công nhân,1.2
+10300088,Công nhân may,Công nhân,1.2
+10300089,Công nhân may,Công nhân,1.2
+10300090,Công nhân may,Công nhân,1.2
+10300091,Công nhân may,Công nhân,1.2
+10300092,Công nhân may,Công nhân,1.2
+10300093,Tổ trưởng sản xuất,Công nhân,1.5
+10300094,Công nhân may,Công nhân,1.2
+10300095,Công nhân may,Công nhân,1.2
+10300096,Công nhân may,Công nhân,1.2
+10300097,Công nhân cắt vải,Công nhân,1.25
+10300098,Công nhân may,Công nhân,1.2
+10300099,Công nhân may,Công nhân,1.2
+10300100,Tổ trưởng sản xuất,Công nhân,1.5
+10300101,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300102,Công nhân may,Công nhân,1.2
+10300103,Tổ trưởng sản xuất,Công nhân,1.5
+10300104,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300105,Công nhân may,Công nhân,1.2
+10300106,Công nhân may,Công nhân,1.2
+10300107,Công nhân may,Công nhân,1.2
+10300108,Công nhân may,Công nhân,1.2
+10300109,Công nhân may,Công nhân,1.2
+10300110,Công nhân may,Công nhân,1.2
+10300111,Công nhân may,Công nhân,1.2
+10300112,Công nhân may,Công nhân,1.2
+10300113,Công nhân may,Công nhân,1.2
+10300114,Công nhân may,Công nhân,1.2
+10300115,Công nhân may,Công nhân,1.2
+10300116,Công nhân may,Công nhân,1.2
+10300117,Công nhân may,Công nhân,1.2
+10300118,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300119,Công nhân may,Công nhân,1.2
+10300120,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300121,Công nhân may,Công nhân,1.2
+10300122,Công nhân cắt vải,Công nhân,1.25
+10300123,Công nhân may,Công nhân,1.2
+10300124,Tổ trưởng sản xuất,Công nhân,1.5
+10300125,Công nhân may,Công nhân,1.2
+10300126,Công nhân cắt vải,Công nhân,1.25
+10300127,Tổ trưởng sản xuất,Công nhân,1.5
+10300128,Công nhân may,Công nhân,1.2
+10300129,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300130,Công nhân may,Công nhân,1.2
+10300131,Công nhân may,Công nhân,1.2
+10300132,Công nhân may,Công nhân,1.2
+10300133,Công nhân may,Công nhân,1.2
+10300134,Công nhân may,Công nhân,1.2
+10300135,Tổ trưởng sản xuất,Công nhân,1.5
+10300136,Công nhân may,Công nhân,1.2
+10300137,Công nhân may,Công nhân,1.2
+10300138,Công nhân may,Công nhân,1.2
+10300139,Công nhân may,Công nhân,1.2
+10300140,Tổ trưởng sản xuất,Công nhân,1.5
+10300141,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300142,Công nhân may,Công nhân,1.2
+10300143,Công nhân may,Công nhân,1.2
+10300144,Tổ trưởng sản xuất,Công nhân,1.5
+10300145,Công nhân may,Công nhân,1.2
+10300146,Công nhân may,Công nhân,1.2
+10300147,Công nhân may,Công nhân,1.2
+10300148,Công nhân may,Công nhân,1.2
+10300149,Công nhân may,Công nhân,1.2
+10300150,Công nhân may,Công nhân,1.2
+10300151,Công nhân cắt vải,Công nhân,1.25
+10300152,Công nhân may,Công nhân,1.2
+10300153,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300154,Công nhân may,Công nhân,1.2
+10300155,Công nhân may,Công nhân,1.2
+10300156,Công nhân may,Công nhân,1.2
+10300157,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300158,Công nhân may,Công nhân,1.2
+10300159,Công nhân may,Công nhân,1.2
+10300160,Công nhân may,Công nhân,1.2
+10300161,Công nhân may,Công nhân,1.2
+10300162,Quản đốc sản xuất,Văn phòng,2.5
+10300163,Công nhân may,Công nhân,1.2
+10300164,Công nhân may,Công nhân,1.2
+10300165,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300166,Công nhân may,Công nhân,1.2
+10300167,Công nhân may,Công nhân,1.2
+10300168,Công nhân may,Công nhân,1.2
+10300169,Công nhân may,Công nhân,1.2
+10300170,Tổ trưởng sản xuất,Công nhân,1.5
+10300171,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300172,Công nhân may,Công nhân,1.2
+10300173,Công nhân may,Công nhân,1.2
+10300174,Công nhân may,Công nhân,1.2
+10300175,Công nhân may,Công nhân,1.2
+10300176,Công nhân may,Công nhân,1.2
+10300177,Công nhân may,Công nhân,1.2
+10300178,Công nhân may,Công nhân,1.2
+10300179,Công nhân may,Công nhân,1.2
+10300180,Công nhân may,Công nhân,1.2
+10300181,Công nhân may,Công nhân,1.2
+10300182,Công nhân cắt vải,Công nhân,1.25
+10300183,Công nhân may,Công nhân,1.2
+10300184,Công nhân may,Công nhân,1.2
+10300185,Công nhân may,Công nhân,1.2
+10300186,Công nhân may,Công nhân,1.2
+10300187,Công nhân may,Công nhân,1.2
+10300188,Công nhân may,Công nhân,1.2
+10300189,Công nhân may,Công nhân,1.2
+10300190,Công nhân cắt vải,Công nhân,1.25
+10300191,Phó quản đốc,Văn phòng,2.2
+10300192,Công nhân may,Công nhân,1.2
+10300193,Công nhân may,Công nhân,1.2
+10300194,Công nhân may,Công nhân,1.2
+10300195,Công nhân may,Công nhân,1.2
+10300196,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300197,Công nhân may,Công nhân,1.2
+10300198,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300199,Công nhân may,Công nhân,1.2
+10300200,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300201,Công nhân may,Công nhân,1.2
+10300202,Công nhân may,Công nhân,1.2
+10300203,Công nhân may,Công nhân,1.2
+10300204,Công nhân may,Công nhân,1.2
+10300205,Công nhân may,Công nhân,1.2
+10300206,Công nhân may,Công nhân,1.2
+10300207,Công nhân cắt vải,Công nhân,1.25
+10300208,Công nhân may,Công nhân,1.2
+10300209,Công nhân cắt vải,Công nhân,1.25
+10300210,Công nhân may,Công nhân,1.2
+10300211,Công nhân may,Công nhân,1.2
+10300212,Công nhân may,Công nhân,1.2
+10300213,Công nhân may,Công nhân,1.2
+10300214,Công nhân may,Công nhân,1.2
+10300215,Công nhân may,Công nhân,1.2
+10300216,Công nhân cắt vải,Công nhân,1.25
+10300217,Công nhân may,Công nhân,1.2
+10300218,Công nhân may,Công nhân,1.2
+10300219,Công nhân may,Công nhân,1.2
+10300220,Công nhân may,Công nhân,1.2
+10300221,Công nhân may,Công nhân,1.2
+10300222,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300223,Công nhân may,Công nhân,1.2
+10300224,Công nhân may,Công nhân,1.2
+10300225,Công nhân may,Công nhân,1.2
+10300226,Công nhân cắt vải,Công nhân,1.25
+10300227,Công nhân may,Công nhân,1.2
+10300228,Công nhân cắt vải,Công nhân,1.25
+10300229,Công nhân may,Công nhân,1.2
+10300230,Công nhân cắt vải,Công nhân,1.25
+10300231,Công nhân may,Công nhân,1.2
+10300232,Công nhân may,Công nhân,1.2
+10300233,Công nhân may,Công nhân,1.2
+10300234,Công nhân may,Công nhân,1.2
+10300235,Công nhân cắt vải,Công nhân,1.25
+10300236,Công nhân may,Công nhân,1.2
+10300237,Công nhân may,Công nhân,1.2
+10300238,Công nhân may,Công nhân,1.2
+10300239,Công nhân may,Công nhân,1.2
+10300240,Công nhân may,Công nhân,1.2
+10300241,Công nhân may,Công nhân,1.2
+10300242,Công nhân may,Công nhân,1.2
+10300243,Công nhân may,Công nhân,1.2
+10300244,Công nhân may,Công nhân,1.2
+10300245,Công nhân may,Công nhân,1.2
+10300246,Công nhân may,Công nhân,1.2
+10300247,Công nhân may,Công nhân,1.2
+10300248,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300249,Công nhân cắt vải,Công nhân,1.25
+10300250,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300251,Công nhân may,Công nhân,1.2
+10300252,Công nhân may,Công nhân,1.2
+10300253,Công nhân may,Công nhân,1.2
+10300254,Công nhân may,Công nhân,1.2
+10300255,Công nhân may,Công nhân,1.2
+10300256,Công nhân may,Công nhân,1.2
+10300257,Công nhân may,Công nhân,1.2
+10300258,Công nhân may,Công nhân,1.2
+10300259,Công nhân cắt vải,Công nhân,1.25
+10300260,Công nhân cắt vải,Công nhân,1.25
+10300261,Công nhân cắt vải,Công nhân,1.25
+10300262,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300263,Công nhân may,Công nhân,1.2
+10300264,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300265,Tổ trưởng sản xuất,Công nhân,1.5
+10300266,Công nhân may,Công nhân,1.2
+10300267,Công nhân may,Công nhân,1.2
+10300268,Công nhân may,Công nhân,1.2
+10300269,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300270,Công nhân may,Công nhân,1.2
+10300271,Công nhân may,Công nhân,1.2
+10300272,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300273,Công nhân may,Công nhân,1.2
+10300274,Công nhân may,Công nhân,1.2
+10300275,Tổ trưởng sản xuất,Công nhân,1.5
+10300276,Công nhân may,Công nhân,1.2
+10300277,Công nhân cắt vải,Công nhân,1.25
+10300278,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300279,Công nhân may,Công nhân,1.2
+10300280,Công nhân may,Công nhân,1.2
+10300281,Công nhân may,Công nhân,1.2
+10300282,Công nhân may,Công nhân,1.2
+10300283,Công nhân may,Công nhân,1.2
+10300284,Công nhân may,Công nhân,1.2
+10300285,Công nhân may,Công nhân,1.2
+10300286,Công nhân may,Công nhân,1.2
+10300287,Công nhân cắt vải,Công nhân,1.25
+10300288,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300289,Công nhân may,Công nhân,1.2
+10300290,Quản đốc sản xuất,Văn phòng,2.5
+10300291,Công nhân may,Công nhân,1.2
+10300292,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300293,Công nhân cắt vải,Công nhân,1.25
+10300294,Công nhân cắt vải,Công nhân,1.25
+10300295,Công nhân may,Công nhân,1.2
+10300296,Công nhân cắt vải,Công nhân,1.25
+10300297,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300298,Công nhân may,Công nhân,1.2
+10300299,Công nhân may,Công nhân,1.2
+10300300,Công nhân may,Công nhân,1.2
+10300301,Công nhân may,Công nhân,1.2
+10300302,Công nhân may,Công nhân,1.2
+10300303,Tổ trưởng sản xuất,Công nhân,1.5
+10300304,Công nhân may,Công nhân,1.2
+10300305,Công nhân may,Công nhân,1.2
+10300306,Công nhân may,Công nhân,1.2
+10300307,Công nhân may,Công nhân,1.2
+10300308,Công nhân may,Công nhân,1.2
+10300309,Công nhân may,Công nhân,1.2
+10300310,Công nhân may,Công nhân,1.2
+10300311,Công nhân cắt vải,Công nhân,1.25
+10300312,Công nhân cắt vải,Công nhân,1.25
+10300313,Công nhân may,Công nhân,1.2
+10300314,Công nhân may,Công nhân,1.2
+10300315,Phó quản đốc,Văn phòng,2.2
+10300316,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300317,Công nhân may,Công nhân,1.2
+10300318,Công nhân may,Công nhân,1.2
+10300319,Tổ trưởng sản xuất,Công nhân,1.5
+10300320,Công nhân may,Công nhân,1.2
+10300321,Công nhân cắt vải,Công nhân,1.25
+10300322,Công nhân may,Công nhân,1.2
+10300323,Tổ trưởng sản xuất,Công nhân,1.5
+10300324,Tổ trưởng sản xuất,Công nhân,1.5
+10300325,Công nhân may,Công nhân,1.2
+10300326,Công nhân may,Công nhân,1.2
+10300327,Công nhân may,Công nhân,1.2
+10300328,Công nhân may,Công nhân,1.2
+10300329,Tổ trưởng sản xuất,Công nhân,1.5
+10300330,Công nhân may,Công nhân,1.2
+10300331,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300332,Công nhân may,Công nhân,1.2
+10300333,Công nhân may,Công nhân,1.2
+10300334,Công nhân may,Công nhân,1.2
+10300335,Công nhân cắt vải,Công nhân,1.25
+10300336,Công nhân may,Công nhân,1.2
+10300337,Công nhân may,Công nhân,1.2
+10300338,Công nhân may,Công nhân,1.2
+10300339,Công nhân cắt vải,Công nhân,1.25
+10300340,Công nhân may,Công nhân,1.2
+10300341,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300342,Công nhân may,Công nhân,1.2
+10300343,Công nhân may,Công nhân,1.2
+10300344,Công nhân may,Công nhân,1.2
+10300345,Công nhân may,Công nhân,1.2
+10300346,Công nhân cắt vải,Công nhân,1.25
+10300347,Công nhân may,Công nhân,1.2
+10300348,Công nhân may,Công nhân,1.2
+10300349,Công nhân may,Công nhân,1.2
+10300350,Công nhân cắt vải,Công nhân,1.25
+10300351,Công nhân may,Công nhân,1.2
+10300352,Công nhân may,Công nhân,1.2
+10300353,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300354,Công nhân may,Công nhân,1.2
+10300355,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300356,Công nhân may,Công nhân,1.2
+10300357,Công nhân may,Công nhân,1.2
+10300358,Công nhân may,Công nhân,1.2
+10300359,Công nhân may,Công nhân,1.2
+10300360,Công nhân may,Công nhân,1.2
+10300361,Tổ trưởng sản xuất,Công nhân,1.5
+10300362,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300363,Công nhân may,Công nhân,1.2
+10300364,Công nhân cắt vải,Công nhân,1.25
+10300365,Công nhân cắt vải,Công nhân,1.25
+10300366,Công nhân may,Công nhân,1.2
+10300367,Công nhân may,Công nhân,1.2
+10300368,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300369,Công nhân may,Công nhân,1.2
+10300370,Công nhân may,Công nhân,1.2
+10300371,Công nhân may,Công nhân,1.2
+10300372,Công nhân may,Công nhân,1.2
+10300373,Công nhân may,Công nhân,1.2
+10300374,Tổ trưởng sản xuất,Công nhân,1.5
+10300375,Công nhân may,Công nhân,1.2
+10300376,Công nhân may,Công nhân,1.2
+10300377,Công nhân may,Công nhân,1.2
+10300378,Công nhân may,Công nhân,1.2
+10300379,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300380,Công nhân may,Công nhân,1.2
+10300381,Công nhân may,Công nhân,1.2
+10300382,Công nhân may,Công nhân,1.2
+10300383,Công nhân may,Công nhân,1.2
+10300384,Công nhân may,Công nhân,1.2
+10300385,Công nhân cắt vải,Công nhân,1.25
+10300386,Công nhân may,Công nhân,1.2
+10300387,Công nhân may,Công nhân,1.2
+10300388,Công nhân may,Công nhân,1.2
+10300389,Công nhân cắt vải,Công nhân,1.25
+10300390,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300391,Công nhân hoàn thiện - đóng gói,Công nhân,1.2
+10300392,Công nhân may,Công nhân,1.2
+10300393,Tổ trưởng sản xuất,Công nhân,1.5
+10300394,Công nhân may,Công nhân,1.2
+10300395,Công nhân may,Công nhân,1.2
+10400396,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400397,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400398,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400399,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400400,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400401,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400402,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400403,Tổ trưởng QC,Văn phòng,2.0
+10400404,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400405,Nhân viên hồ sơ chất lượng,Văn phòng,1.6
+10400406,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400407,Nhân viên hồ sơ chất lượng,Văn phòng,1.6
+10400408,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400409,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400410,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400411,Nhân viên hồ sơ chất lượng,Văn phòng,1.6
+10400412,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400413,Trưởng phòng QC,Văn phòng,3.0
+10400414,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400415,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400416,Nhân viên hồ sơ chất lượng,Văn phòng,1.6
+10400417,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400418,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400419,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400420,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400421,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400422,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400423,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400424,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400425,Tổ trưởng QC,Văn phòng,2.0
+10400426,Tổ trưởng QC,Văn phòng,2.0
+10400427,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400428,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400429,Nhân viên hồ sơ chất lượng,Văn phòng,1.6
+10400430,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400431,Tổ trưởng QC,Văn phòng,2.0
+10400432,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400433,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400434,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400435,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400436,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400437,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400438,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400439,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400440,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400441,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400442,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400443,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400444,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400445,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400446,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400447,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400448,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400449,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10400450,Nhân viên kiểm tra chất lượng,Công nhân,1.4
+10500451,Nhân viên kho,Công nhân,1.2
+10500452,Nhân viên kho,Công nhân,1.2
+10500453,Nhân viên kho,Công nhân,1.2
+10500454,Nhân viên kho,Công nhân,1.2
+10500455,Nhân viên kho,Công nhân,1.2
+10500456,Nhân viên kho,Công nhân,1.2
+10500457,Nhân viên kho,Công nhân,1.2
+10500458,Nhân viên kho,Công nhân,1.2
+10500459,Nhân viên kho,Công nhân,1.2
+10500460,Nhân viên kho,Công nhân,1.2
+10500461,Nhân viên kho,Công nhân,1.2
+10500462,Nhân viên vận hành xe nâng,Công nhân,1.4
+10500463,Nhân viên kho,Công nhân,1.2
+10500464,Nhân viên vận hành xe nâng,Công nhân,1.4
+10500465,Trưởng kho,Văn phòng,2.5
+10500466,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500467,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500468,Nhân viên kho,Công nhân,1.2
+10500469,Nhân viên kho,Công nhân,1.2
+10500470,Nhân viên kho,Công nhân,1.2
+10500471,Nhân viên kho,Công nhân,1.2
+10500472,Nhân viên kho,Công nhân,1.2
+10500473,Nhân viên kho,Công nhân,1.2
+10500474,Nhân viên kho,Công nhân,1.2
+10500475,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500476,Nhân viên vận hành xe nâng,Công nhân,1.4
+10500477,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500478,Nhân viên vận hành xe nâng,Công nhân,1.4
+10500479,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500480,Nhân viên kho,Công nhân,1.2
+10500481,Nhân viên kho,Công nhân,1.2
+10500482,Nhân viên kho,Công nhân,1.2
+10500483,Nhân viên kho,Công nhân,1.2
+10500484,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500485,Nhân viên vận hành xe nâng,Công nhân,1.4
+10500486,Nhân viên vận hành xe nâng,Công nhân,1.4
+10500487,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500488,Nhân viên kho,Công nhân,1.2
+10500489,Nhân viên kho,Công nhân,1.2
+10500490,Nhân viên kho,Công nhân,1.2
+10500491,Nhân viên kho,Công nhân,1.2
+10500492,Nhân viên kho,Công nhân,1.2
+10500493,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500494,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500495,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500496,Nhân viên kho,Công nhân,1.2
+10500497,Phó kho,Văn phòng,2.0
+10500498,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6
+10500499,Nhân viên kho,Công nhân,1.2
+10500500,Nhân viên quản lý nguyên vật liệu,Văn phòng,1.6

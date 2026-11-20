@@ -1,0 +1,50 @@
+SP000001,Áo thun cổ tròn,85000,Đang kinh doanh
+SP000002,Áo polo,120000,Đang kinh doanh
+SP000003,Quần tây,180000,Đang kinh doanh
+SP000004,Áo sơ mi nam dài tay,165000,Đang kinh doanh
+SP000005,Áo sơ mi nữ công sở,155000,Đang kinh doanh
+SP000006,Quần jean nam ống đứng,240000,Đang kinh doanh
+SP000007,Quần jean nữ cạp cao,230000,Đang kinh doanh
+SP000008,Áo khoác gió hai lớp,260000,Đang kinh doanh
+SP000009,Áo khoác kaki nam,290000,Đang kinh doanh
+SP000010,Áo hoodie nỉ bông,210000,Đang kinh doanh
+SP000011,Quần short kaki nam,130000,Đang kinh doanh
+SP000012,Quần short jean nữ,145000,Đang kinh doanh
+SP000013,Váy chữ A công sở,175000,Đang kinh doanh
+SP000014,Đầm suông tay lỡ,250000,Ngừng kinh doanh
+SP000015,Áo thun tay lỡ form rộng,95000,Đang kinh doanh
+SP000016,Áo thun thể thao nam,110000,Đang kinh doanh
+SP000017,Quần jogger nỉ,160000,Đang kinh doanh
+SP000018,Quần thể thao ống suông,140000,Đang kinh doanh
+SP000019,Áo sơ mi kẻ sọc,170000,Đang kinh doanh
+SP000020,Áo sơ mi denim,195000,Ngừng kinh doanh
+SP000021,Quần kaki nam ống ôm,190000,Đang kinh doanh
+SP000022,Quần culottes nữ,165000,Đang kinh doanh
+SP000023,Áo len cổ lọ,220000,Đang kinh doanh
+SP000024,Áo cardigan dệt kim,205000,Đang kinh doanh
+SP000025,Áo blazer nữ thanh lịch,350000,Đang kinh doanh
+SP000026,Áo vest nam công sở,480000,Đang kinh doanh
+SP000027,Áo khoác bomber nam,275000,Đang kinh doanh
+SP000028,Áo khoác jean nữ,285000,Đang kinh doanh
+SP000029,Đầm maxi đi biển,265000,Ngừng kinh doanh
+SP000030,Chân váy xếp ly ngắn,150000,Đang kinh doanh
+SP000031,Chân váy midi dáng dài,185000,Đang kinh doanh
+SP000032,Áo ba lỗ cotton,65000,Đang kinh doanh
+SP000033,Áo croptop nữ,90000,Đang kinh doanh
+SP000034,Áo sweater trơn,185000,Đang kinh doanh
+SP000035,Bộ đồ ngủ pijama lụa,190000,Đang kinh doanh
+SP000036,Bộ đồ mặc nhà cotton,135000,Đang kinh doanh
+SP000037,Áo chống nắng toàn thân,175000,Đang kinh doanh
+SP000038,Quần legging nữ co giãn,105000,Đang kinh doanh
+SP000039,Áo thun cổ tim,88000,Ngừng kinh doanh
+SP000040,Áo polo phối cổ,135000,Đang kinh doanh
+SP000041,Quần tây nữ lưng cao,175000,Đang kinh doanh
+SP000042,Quần baggy vải nữ,160000,Đang kinh doanh
+SP000043,Áo đồng phục công ty,115000,Đang kinh doanh
+SP000044,Áo bảo hộ lao động,150000,Đang kinh doanh
+SP000045,Quần bảo hộ lao động,145000,Đang kinh doanh
+SP000046,Áo phao lông vũ nhẹ,420000,Đang kinh doanh
+SP000047,Áo gile len nam,180000,Ngừng kinh doanh
+SP000048,Áo sơ mi đũi nam,175000,Đang kinh doanh
+SP000049,Đầm sơ mi dáng dài,245000,Đang kinh doanh
+SP000050,Quần ống rộng vải lanh,155000,Đang kinh doanh

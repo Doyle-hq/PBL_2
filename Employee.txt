@@ -1,0 +1,500 @@
+10100001,Lê Hoàng Đạt,17/08/1971,Nam,0335680517,Huế,101,06/11/2023,Đang làm,Nhân viên hành chính
+10100002,Nguyễn Xuân Tuấn,22/06/1998,Nam,0929233876,Bình Dương,101,26/06/2022,Đang làm,Nhân viên hành chính
+10100003,Phạm Bích Châu,19/03/1980,Nữ,0810661076,Nghệ An,101,03/07/2023,Đang làm,Nhân viên nhân sự
+10100004,Dương Hoàng Phúc,21/02/1973,Nam,0706309677,Hải Phòng,101,16/05/2025,Đang làm,Nhân viên nhân sự
+10100005,Võ Hữu Bi,21/05/1997,Nam,0708752110,Đồng Nai,101,28/03/2026,Đang làm,Nhân viên nhân sự
+10100006,Hoàng Hoàng Bi,17/02/1997,Nam,0965558368,Quảng Nam,101,07/12/2023,Đang làm,Nhân viên nhân sự
+10100007,Huỳnh Minh Hải,14/09/1978,Nam,0870013146,Huế,101,09/02/2022,Đang làm,Nhân viên hành chính
+10100008,Lê Đình Phúc,28/05/1998,Nam,0300570191,Quảng Ngãi,101,29/12/2022,Đang làm,Nhân viên nhân sự
+10100009,Lý Thu Quyên,02/04/1997,Nữ,0304022087,Hải Phòng,101,20/12/2025,Đang làm,Nhân viên nhân sự
+10100010,Huỳnh Ngọc Ngọc,10/01/1996,Nữ,0863871852,Khánh Hòa,101,14/02/2026,Đã nghỉ việc,Nhân viên hành chính
+10100011,Phan Bích Linh,02/05/1972,Nữ,0804382965,Đà Nẵng,101,16/02/2024,Đang làm,Nhân viên hành chính
+10100012,Lý Xuân Trang,23/10/1993,Nữ,0773908760,Hồ Chí Minh,101,03/12/2022,Đang làm,Phó phòng nhân sự
+10100013,Bùi Xuân Tiến,17/02/1970,Nam,0898350398,Quảng Nam,101,10/04/2022,Đang làm,Nhân viên hành chính
+10100014,Ngô Xuân Hằng,06/06/1982,Nữ,0831999390,Hồ Chí Minh,101,07/07/2023,Đang làm,Nhân viên nhân sự
+10100015,Phạm Xuân Mai,27/04/1984,Nữ,0811421354,Khánh Hòa,101,26/04/2024,Đang làm,Nhân viên nhân sự
+10100016,Hồ Quang Sơn,19/03/1971,Nam,0364360899,Thanh Hóa,101,14/10/2022,Đang làm,Nhân viên nhân sự
+10100017,Phan Ngọc Diệp,24/06/1987,Nữ,0895396657,Đà Nẵng,101,26/10/2022,Đang làm,Nhân viên hành chính
+10100018,Đỗ Hoàng Nghĩa,06/10/1992,Nam,0341659095,Quảng Ngãi,101,06/06/2023,Đang làm,Nhân viên hành chính
+10100019,Nguyễn Đức Hiếu,01/09/1991,Nam,0791655339,Quảng Nam,101,22/02/2026,Đã nghỉ việc,Nhân viên nhân sự
+10100020,Hoàng Thanh Hằng,22/04/2001,Nữ,0715159594,Huế,101,28/02/2022,Đang làm,Nhân viên nhân sự
+10100021,Bùi Hoàng Cường,03/06/1997,Nam,0946973747,Hồ Chí Minh,101,29/08/2024,Đang làm,Trưởng phòng nhân sự
+10100022,Phan Xuân Thắng,06/12/1983,Nam,0720692119,Cần Thơ,101,29/07/2026,Đang làm,Nhân viên hành chính
+10100023,Lê Văn Thành,06/12/1987,Nam,0776650873,Quảng Nam,101,27/04/2024,Đang làm,Nhân viên hành chính
+10100024,Phan Ngọc Linh,20/07/1987,Nữ,0960578942,Huế,101,26/07/2024,Đã nghỉ việc,Nhân viên nhân sự
+10100025,Bùi Đình Hiếu,24/07/1982,Nam,0333385912,Huế,101,23/12/2024,Đang làm,Nhân viên nhân sự
+10200026,Vũ Quang Phong,21/11/1977,Nam,0385658676,Hà Nội,102,14/10/2024,Đang làm,Kế toán viên
+10200027,Ngô Quang Nhân,24/02/1987,Nam,0345196875,Bình Dương,102,01/06/2025,Đang làm,Kế toán viên
+10200028,Lý Minh Trung,16/03/1971,Nam,0818680132,Đà Nẵng,102,18/09/2026,Đang làm,Kế toán viên
+10200029,Võ Văn Nghĩa,19/08/1994,Nam,0712289745,Đắk Lắk,102,11/10/2025,Đang làm,Thủ quỹ
+10200030,Ngô Thanh Tuyền,04/10/1987,Nữ,0748065283,Khánh Hòa,102,28/02/2026,Đã nghỉ việc,Kế toán viên
+10200031,Trần Xuân Oanh,03/04/1981,Nữ,0318063048,Khánh Hòa,102,30/06/2025,Đang làm,Kế toán viên
+10200032,Phạm Xuân Thảo,28/02/1987,Nữ,0750418581,Khánh Hòa,102,07/05/2023,Đang làm,Kế toán viên
+10200033,Dương Minh Nga,25/08/2001,Nữ,0823164254,Khánh Hòa,102,17/02/2024,Đang làm,Trưởng phòng kế toán
+10200034,Dương Minh Tuấn,18/07/1992,Nam,0356065096,Đồng Nai,102,05/06/2025,Đang làm,Kế toán viên
+10200035,Vũ Hoàng Bình,07/01/1974,Nam,0338479656,Hồ Chí Minh,102,06/05/2025,Đang làm,Kế toán viên
+10200036,Vũ Minh Châu,26/02/1973,Nữ,0760489163,Huế,102,12/09/2026,Đang làm,Thủ quỹ
+10200037,Bùi Đức Bình,04/11/2002,Nam,0327708391,Huế,102,19/09/2025,Đang làm,Kế toán viên
+10200038,Đặng Ngọc Thành,27/04/2000,Nam,0914972145,Cần Thơ,102,04/04/2024,Đang làm,Thủ quỹ
+10200039,Vũ Xuân Nhung,27/02/1972,Nữ,0926720689,Đắk Lắk,102,19/08/2025,Đang làm,Kế toán viên
+10200040,Dương Đình Cường,26/12/1980,Nam,0822081374,Hà Nội,102,02/08/2025,Đang làm,Kế toán viên
+10200041,Võ Minh Thảo,20/08/1991,Nữ,0849338077,Hải Phòng,102,22/04/2024,Đang làm,Kế toán viên
+10200042,Dương Minh Hoa,09/08/1976,Nữ,0862967101,Thanh Hóa,102,19/05/2025,Đang làm,Kế toán viên
+10200043,Võ Quang Nghĩa,23/06/1985,Nam,0370558324,Hải Phòng,102,28/09/2025,Đang làm,Phó phòng kế toán
+10200044,Bùi Thanh Ngọc,24/08/1977,Nữ,0983861581,Quảng Nam,102,31/05/2025,Đang làm,Kế toán viên
+10200045,Võ Ngọc Hương,19/11/1985,Nữ,0355925675,Hải Phòng,102,28/12/2025,Đã nghỉ việc,Kế toán viên
+10300046,Đặng Thị Tuyền,04/10/1984,Nữ,0389982959,Khánh Hòa,103,05/07/2023,Đang làm,Công nhân hoàn thiện - đóng gói
+10300047,Vũ Thanh Ngọc,10/03/2005,Nữ,0878213357,Hải Phòng,103,21/02/2024,Đang làm,Công nhân may
+10300048,Vũ Hoàng Kiên,01/09/1992,Nam,0838424930,Đà Nẵng,103,04/05/2022,Đang làm,Công nhân may
+10300049,Phạm Thị Trâm,23/07/1976,Nữ,0791284353,Quảng Ngãi,103,17/02/2022,Đang làm,Công nhân may
+10300050,Lý Minh Hương,23/08/1980,Nữ,0396602514,Nghệ An,103,10/03/2022,Đang làm,Công nhân may
+10300051,Đặng Thu Oanh,16/09/1984,Nữ,0719565633,Thanh Hóa,103,26/11/2022,Đang làm,Công nhân may
+10300052,Trần Thanh Linh,25/01/1992,Nữ,0375355230,Đà Nẵng,103,18/12/2023,Đang làm,Công nhân may
+10300053,Hồ Hoàng Long,01/07/1976,Nam,0890247218,Quảng Nam,103,22/12/2024,Đang làm,Công nhân hoàn thiện - đóng gói
+10300054,Phạm Ngọc Trâm,10/10/1987,Nữ,0767697521,Hồ Chí Minh,103,04/07/2026,Đang làm,Công nhân hoàn thiện - đóng gói
+10300055,Phạm Xuân Phương,08/12/2004,Nữ,0892227294,Bình Dương,103,01/10/2025,Đang làm,Công nhân may
+10300056,Trần Bích Hằng,27/06/1985,Nữ,0366500143,Cần Thơ,103,10/12/2022,Đang làm,Tổ trưởng sản xuất
+10300057,Hoàng Xuân Phong,04/10/1980,Nam,0979907519,Thanh Hóa,103,03/06/2026,Đang làm,Công nhân may
+10300058,Lý Thanh Hoa,08/08/1975,Nữ,0791564619,Bình Dương,103,30/09/2023,Đang làm,Công nhân hoàn thiện - đóng gói
+10300059,Phạm Thu Linh,17/08/1976,Nữ,0739540808,Đồng Nai,103,14/01/2022,Đang làm,Công nhân may
+10300060,Nguyễn Ngọc Dũng,21/09/1990,Nam,0710096100,Đồng Nai,103,28/04/2022,Đang làm,Công nhân cắt vải
+10300061,Lý Thu Trâm,02/09/2002,Nữ,0841659236,Đồng Nai,103,22/05/2023,Đang làm,Công nhân may
+10300062,Đỗ Xuân Dũng,20/12/2002,Nam,0928399486,Đắk Lắk,103,10/06/2023,Đang làm,Công nhân may
+10300063,Ngô Xuân Nghĩa,17/05/2000,Nam,0828759996,Đắk Lắk,103,05/09/2023,Đang làm,Công nhân hoàn thiện - đóng gói
+10300064,Hồ Ngọc Oanh,14/06/1979,Nữ,0942839973,Thanh Hóa,103,11/11/2023,Đang làm,Công nhân may
+10300065,Bùi Đình Anh,03/04/1977,Nam,0859505971,Đà Nẵng,103,02/07/2024,Đang làm,Công nhân may
+10300066,Ngô Thị Hằng,24/05/1970,Nữ,0771078830,Đà Nẵng,103,09/05/2022,Đang làm,Công nhân may
+10300067,Lý Xuân Bảo,13/12/1998,Nam,0880631199,Nghệ An,103,11/03/2026,Đang làm,Công nhân may
+10300068,Lý Văn Bi,28/02/1990,Nam,0723616697,Hà Nội,103,20/05/2026,Đang làm,Công nhân cắt vải
+10300069,Đỗ Văn Bi,03/08/1991,Nam,0390776867,Hồ Chí Minh,103,08/10/2025,Đang làm,Công nhân may
+10300070,Vũ Xuân Tuyền,08/08/1996,Nữ,0900151917,Khánh Hòa,103,19/06/2026,Đang làm,Công nhân may
+10300071,Võ Quang Cường,11/05/1983,Nam,0364346550,Cần Thơ,103,01/03/2026,Đang làm,Công nhân may
+10300072,Hồ Quang Bi,20/08/2002,Nam,0780453346,Đắk Lắk,103,01/02/2026,Đang làm,Công nhân may
+10300073,Vũ Bích Hoa,10/11/1974,Nữ,0972656256,Cần Thơ,103,17/09/2025,Đã nghỉ việc,Công nhân may
+10300074,Nguyễn Hữu Thành,13/01/2000,Nam,0314701610,Quảng Nam,103,19/07/2026,Đang làm,Công nhân may
+10300075,Trần Ngọc Nhân,08/05/1993,Nam,0986709419,Cần Thơ,103,02/01/2023,Đang làm,Công nhân may
+10300076,Huỳnh Văn Thắng,22/12/1976,Nam,0984790772,Hồ Chí Minh,103,20/01/2022,Đang làm,Công nhân may
+10300077,Nguyễn Minh Diệp,15/05/1995,Nữ,0334348494,Quảng Nam,103,20/11/2022,Đang làm,Công nhân may
+10300078,Võ Ngọc Tuấn,10/07/2005,Nam,0994288670,Hà Nội,103,30/10/2024,Đã nghỉ việc,Công nhân may
+10300079,Lý Bích Trâm,12/09/1999,Nữ,0398729620,Cần Thơ,103,08/09/2026,Đang làm,Phó quản đốc
+10300080,Ngô Thu Trâm,27/03/1983,Nữ,0735305507,Bình Dương,103,21/04/2024,Đang làm,Công nhân may
+10300081,Phan Hữu Kiên,22/05/1981,Nam,0841124183,Đồng Nai,103,29/01/2024,Đã nghỉ việc,Công nhân may
+10300082,Huỳnh Hoàng Cường,23/11/1979,Nam,0857214473,Thanh Hóa,103,18/04/2024,Đang làm,Công nhân may
+10300083,Ngô Minh Nghĩa,23/09/1975,Nam,0384341057,Hải Phòng,103,26/11/2024,Đã nghỉ việc,Công nhân may
+10300084,Huỳnh Đức Tiến,16/12/1980,Nam,0918711089,Quảng Nam,103,07/11/2024,Đang làm,Công nhân hoàn thiện - đóng gói
+10300085,Bùi Đức Bi,19/04/1972,Nam,0899268064,Huế,103,24/02/2026,Đang làm,Công nhân may
+10300086,Phan Ngọc Long,01/05/1970,Nam,0941444298,Bình Dương,103,03/08/2024,Đang làm,Công nhân may
+10300087,Võ Xuân Hằng,11/03/1984,Nữ,0985532171,Đà Nẵng,103,20/09/2024,Đã nghỉ việc,Công nhân may
+10300088,Phan Minh Phương,28/10/1975,Nữ,0943144833,Hà Nội,103,20/03/2025,Đang làm,Công nhân may
+10300089,Hồ Thu Thảo,12/09/1970,Nữ,0768183793,Đắk Lắk,103,10/08/2025,Đang làm,Công nhân may
+10300090,Bùi Ngọc Nhân,13/01/1983,Nam,0728609954,Quảng Nam,103,22/08/2023,Đang làm,Công nhân may
+10300091,Trần Ngọc Hải,08/03/1987,Nam,0337381138,Cần Thơ,103,30/07/2026,Đang làm,Công nhân may
+10300092,Bùi Thanh Phương,13/03/1992,Nữ,0903475768,Cần Thơ,103,16/12/2025,Đang làm,Công nhân may
+10300093,Đỗ Minh Tuyền,18/09/1997,Nữ,0332826040,Thanh Hóa,103,21/07/2024,Đang làm,Tổ trưởng sản xuất
+10300094,Đỗ Đình Trung,28/01/1972,Nam,0330592985,Hà Nội,103,23/09/2025,Đang làm,Công nhân may
+10300095,Bùi Hoàng Bảo,11/09/1991,Nam,0913871786,Cần Thơ,103,07/01/2026,Đang làm,Công nhân may
+10300096,Vũ Ngọc Đạt,07/11/2002,Nam,0313290440,Khánh Hòa,103,14/12/2021,Đang làm,Công nhân may
+10300097,Lê Quang Bi,20/04/1979,Nam,0798931551,Đồng Nai,103,18/12/2025,Đang làm,Công nhân cắt vải
+10300098,Ngô Đức Đạt,01/11/1990,Nam,0859949470,Hồ Chí Minh,103,10/09/2022,Đang làm,Công nhân may
+10300099,Nguyễn Hữu Kiên,08/01/1997,Nam,0982673304,Quảng Nam,103,03/04/2023,Đang làm,Công nhân may
+10300100,Bùi Quang Nhân,01/12/1982,Nam,0823213365,Cần Thơ,103,18/06/2026,Đang làm,Tổ trưởng sản xuất
+10300101,Đặng Ngọc Tuấn,25/09/1993,Nam,0341204351,Đồng Nai,103,11/04/2022,Đang làm,Công nhân hoàn thiện - đóng gói
+10300102,Đỗ Thanh Hương,09/11/1972,Nữ,0951453297,Quảng Nam,103,20/04/2026,Đang làm,Công nhân may
+10300103,Vũ Quang Hiếu,20/02/1989,Nam,0875385880,Cần Thơ,103,19/12/2025,Đang làm,Tổ trưởng sản xuất
+10300104,Phạm Ngọc Thảo,23/04/1996,Nữ,0978524153,Hà Nội,103,27/12/2023,Đang làm,Công nhân hoàn thiện - đóng gói
+10300105,Dương Xuân Anh,03/01/1989,Nam,0320766249,Đà Nẵng,103,12/02/2022,Đang làm,Công nhân may
+10300106,Trần Minh Hiếu,07/03/1977,Nam,0951982688,Hà Nội,103,19/07/2023,Đang làm,Công nhân may
+10300107,Dương Xuân Trung,07/06/1993,Nam,0724623325,Nghệ An,103,12/02/2025,Đang làm,Công nhân may
+10300108,Ngô Ngọc Hiếu,18/02/1980,Nam,0997039418,Hải Phòng,103,18/02/2024,Đang làm,Công nhân may
+10300109,Hoàng Hoàng Long,26/08/1970,Nam,0744296144,Hải Phòng,103,10/04/2026,Đang làm,Công nhân may
+10300110,Ngô Bích Hoa,05/12/1976,Nữ,0339884053,Thanh Hóa,103,17/06/2024,Đang làm,Công nhân may
+10300111,Ngô Hữu Nghĩa,17/03/1995,Nam,0316591139,Đắk Lắk,103,27/06/2025,Đang làm,Công nhân may
+10300112,Đỗ Thu Yến,25/04/2002,Nữ,0748037873,Quảng Ngãi,103,23/01/2026,Đang làm,Công nhân may
+10300113,Dương Thanh Hương,19/02/2005,Nữ,0732041366,Nghệ An,103,26/06/2025,Đang làm,Công nhân may
+10300114,Lê Ngọc Sơn,22/10/2003,Nam,0822581258,Cần Thơ,103,23/11/2025,Đang làm,Công nhân may
+10300115,Trần Bích Nga,08/07/1979,Nữ,0381653599,Quảng Nam,103,01/05/2026,Đang làm,Công nhân may
+10300116,Nguyễn Thị Linh,15/07/1997,Nữ,0768447591,Quảng Nam,103,14/05/2025,Đang làm,Công nhân may
+10300117,Đặng Bích Hằng,15/08/2002,Nữ,0383861106,Đồng Nai,103,05/06/2024,Đang làm,Công nhân may
+10300118,Bùi Hữu Nghĩa,11/09/1988,Nam,0843754296,Cần Thơ,103,26/07/2026,Đang làm,Công nhân hoàn thiện - đóng gói
+10300119,Trần Hoàng Hiếu,10/07/1989,Nam,0336810693,Thanh Hóa,103,18/04/2025,Đang làm,Công nhân may
+10300120,Bùi Quang Sơn,09/06/2002,Nam,0383972601,Đà Nẵng,103,16/01/2025,Đang làm,Công nhân hoàn thiện - đóng gói
+10300121,Dương Đức Bảo,12/06/1987,Nam,0331529737,Huế,103,03/09/2022,Đang làm,Công nhân may
+10300122,Hoàng Xuân Phong,16/12/1972,Nam,0808121542,Đà Nẵng,103,28/08/2025,Đang làm,Công nhân cắt vải
+10300123,Hoàng Thu Châu,04/05/1979,Nữ,0824596266,Hồ Chí Minh,103,20/10/2025,Đang làm,Công nhân may
+10300124,Trần Xuân Phương,21/05/2001,Nữ,0991733266,Hồ Chí Minh,103,22/04/2025,Đang làm,Tổ trưởng sản xuất
+10300125,Dương Đình Kiên,05/01/1971,Nam,0942210775,Cần Thơ,103,09/03/2022,Đang làm,Công nhân may
+10300126,Dương Ngọc Hải,24/11/1990,Nam,0771245095,Cần Thơ,103,14/09/2024,Đang làm,Công nhân cắt vải
+10300127,Võ Thanh Hoa,05/06/1986,Nữ,0750104688,Đồng Nai,103,17/05/2022,Đang làm,Tổ trưởng sản xuất
+10300128,Phạm Minh Bi,17/09/1990,Nam,0827442898,Hà Nội,103,15/10/2023,Đã nghỉ việc,Công nhân may
+10300129,Ngô Quang Trung,25/11/1981,Nam,0357026543,Huế,103,19/07/2024,Đang làm,Công nhân hoàn thiện - đóng gói
+10300130,Huỳnh Xuân Hải,22/05/1993,Nam,0793234888,Hà Nội,103,21/02/2025,Đang làm,Công nhân may
+10300131,Lê Hữu Hải,23/10/1990,Nam,0769285099,Nghệ An,103,30/10/2025,Đang làm,Công nhân may
+10300132,Vũ Ngọc Dũng,27/04/1992,Nam,0978183708,Hà Nội,103,27/11/2023,Đang làm,Công nhân may
+10300133,Võ Minh Hải,23/02/1994,Nam,0809530023,Quảng Nam,103,01/01/2023,Đang làm,Công nhân may
+10300134,Nguyễn Quang Tiến,12/05/1982,Nam,0846337050,Đồng Nai,103,06/09/2025,Đang làm,Công nhân may
+10300135,Huỳnh Thanh Hoa,18/12/1972,Nữ,0320693577,Thanh Hóa,103,26/07/2022,Đang làm,Tổ trưởng sản xuất
+10300136,Đỗ Ngọc Nghĩa,15/02/1991,Nam,0392998233,Bình Dương,103,04/06/2025,Đang làm,Công nhân may
+10300137,Trần Ngọc Nhung,07/03/1991,Nữ,0713128468,Huế,103,03/06/2023,Đang làm,Công nhân may
+10300138,Vũ Bích Mai,28/01/1976,Nữ,0369744490,Huế,103,13/05/2023,Đang làm,Công nhân may
+10300139,Nguyễn Đức Trung,13/08/1990,Nam,0771419922,Khánh Hòa,103,24/03/2024,Đang làm,Công nhân may
+10300140,Dương Thị Linh,10/04/1982,Nữ,0366012558,Quảng Nam,103,13/12/2022,Đang làm,Tổ trưởng sản xuất
+10300141,Lê Ngọc Long,01/06/1986,Nam,0791912579,Đà Nẵng,103,25/10/2023,Đang làm,Công nhân hoàn thiện - đóng gói
+10300142,Bùi Quang Phúc,22/05/1972,Nam,0381198732,Nghệ An,103,08/05/2025,Đang làm,Công nhân may
+10300143,Dương Hoàng Trung,11/08/1992,Nam,0938886594,Đà Nẵng,103,01/02/2022,Đang làm,Công nhân may
+10300144,Trần Thị Oanh,03/07/2002,Nữ,0773931137,Đồng Nai,103,12/07/2026,Đã nghỉ việc,Tổ trưởng sản xuất
+10300145,Phạm Minh Nga,24/01/2000,Nữ,0324182845,Hồ Chí Minh,103,20/05/2023,Đang làm,Công nhân may
+10300146,Huỳnh Hoàng Phúc,11/08/1981,Nam,0734248854,Hồ Chí Minh,103,28/02/2022,Đang làm,Công nhân may
+10300147,Phạm Ngọc Dũng,15/06/1974,Nam,0847983203,Đồng Nai,103,17/12/2024,Đang làm,Công nhân may
+10300148,Phan Xuân Châu,25/08/1980,Nữ,0361126215,Hà Nội,103,15/01/2025,Đang làm,Công nhân may
+10300149,Trần Xuân Bình,12/07/1999,Nam,0827346536,Huế,103,23/03/2026,Đang làm,Công nhân may
+10300150,Đỗ Văn Trung,24/02/1971,Nam,0398301600,Đà Nẵng,103,14/11/2024,Đang làm,Công nhân may
+10300151,Huỳnh Xuân Tuyền,24/02/2005,Nữ,0362804705,Huế,103,09/05/2024,Đang làm,Công nhân cắt vải
+10300152,Phan Minh Bình,09/05/1984,Nam,0862319462,Thanh Hóa,103,17/11/2021,Đang làm,Công nhân may
+10300153,Dương Thu Mai,15/09/2004,Nữ,0859061800,Đồng Nai,103,11/11/2022,Đang làm,Công nhân hoàn thiện - đóng gói
+10300154,Ngô Thị Yến,14/04/1983,Nữ,0328884412,Đà Nẵng,103,01/02/2026,Đang làm,Công nhân may
+10300155,Đỗ Thanh Hương,16/04/1974,Nữ,0317641638,Quảng Ngãi,103,27/12/2024,Đã nghỉ việc,Công nhân may
+10300156,Lê Ngọc Đạt,04/11/1999,Nam,0329393490,Hải Phòng,103,14/08/2025,Đã nghỉ việc,Công nhân may
+10300157,Hoàng Minh Oanh,22/10/1991,Nữ,0865758760,Hà Nội,103,29/10/2025,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300158,Dương Ngọc Bình,19/09/1982,Nam,0791199003,Thanh Hóa,103,10/04/2026,Đang làm,Công nhân may
+10300159,Bùi Quang Thành,10/11/2004,Nam,0805779051,Đà Nẵng,103,23/03/2025,Đang làm,Công nhân may
+10300160,Lê Ngọc Trâm,23/10/1976,Nữ,0986415999,Khánh Hòa,103,15/06/2026,Đang làm,Công nhân may
+10300161,Dương Thanh Ngọc,15/03/1972,Nữ,0807084191,Huế,103,05/09/2023,Đang làm,Công nhân may
+10300162,Võ Thị Hoa,03/09/1998,Nữ,0930355110,Đắk Lắk,103,03/11/2023,Đang làm,Quản đốc sản xuất
+10300163,Lý Văn Thắng,06/05/1985,Nam,0858814027,Thanh Hóa,103,27/03/2023,Đang làm,Công nhân may
+10300164,Vũ Hữu Nghĩa,11/08/2003,Nam,0839123400,Đắk Lắk,103,20/09/2023,Đang làm,Công nhân may
+10300165,Đỗ Minh Phong,17/08/1982,Nam,0809633957,Nghệ An,103,24/05/2026,Đang làm,Công nhân hoàn thiện - đóng gói
+10300166,Trần Thu Trang,28/08/1992,Nữ,0318891688,Hồ Chí Minh,103,30/03/2024,Đang làm,Công nhân may
+10300167,Dương Văn Bi,11/07/1992,Nam,0878176290,Bình Dương,103,04/08/2024,Đang làm,Công nhân may
+10300168,Hoàng Ngọc Nghĩa,02/05/1984,Nam,0734610595,Đắk Lắk,103,01/09/2025,Đang làm,Công nhân may
+10300169,Hồ Minh Thảo,27/02/1984,Nữ,0748395743,Đà Nẵng,103,14/07/2023,Đã nghỉ việc,Công nhân may
+10300170,Trần Minh Hương,08/05/1983,Nữ,0728877090,Đắk Lắk,103,06/01/2023,Đang làm,Tổ trưởng sản xuất
+10300171,Nguyễn Minh Tiến,24/10/1983,Nam,0374841013,Quảng Nam,103,11/05/2022,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300172,Dương Ngọc Trang,14/05/1971,Nữ,0862755047,Quảng Ngãi,103,30/07/2024,Đang làm,Công nhân may
+10300173,Đặng Thị Oanh,25/06/1971,Nữ,0823075727,Hải Phòng,103,05/11/2024,Đang làm,Công nhân may
+10300174,Đặng Đình Hiếu,19/06/2004,Nam,0913520675,Đắk Lắk,103,11/12/2023,Đang làm,Công nhân may
+10300175,Đỗ Ngọc Yến,12/06/1991,Nữ,0735103106,Hồ Chí Minh,103,22/11/2022,Đang làm,Công nhân may
+10300176,Đặng Thanh Mai,23/12/2000,Nữ,0861464581,Khánh Hòa,103,17/07/2024,Đang làm,Công nhân may
+10300177,Nguyễn Minh Oanh,10/07/1995,Nữ,0791817042,Quảng Ngãi,103,08/07/2024,Đang làm,Công nhân may
+10300178,Hoàng Bích Thủy,13/11/1985,Nữ,0854556474,Đồng Nai,103,11/05/2026,Đang làm,Công nhân may
+10300179,Vũ Thị Hương,09/09/1972,Nữ,0807037657,Đà Nẵng,103,17/02/2025,Đang làm,Công nhân may
+10300180,Lê Ngọc Oanh,24/07/2002,Nữ,0352519734,Huế,103,27/10/2023,Đang làm,Công nhân may
+10300181,Phan Bích Trang,24/06/1980,Nữ,0838679850,Hồ Chí Minh,103,28/04/2023,Đang làm,Công nhân may
+10300182,Nguyễn Hữu Dũng,10/10/1973,Nam,0936648469,Hồ Chí Minh,103,26/07/2022,Đang làm,Công nhân cắt vải
+10300183,Đặng Ngọc Hiếu,15/05/1977,Nam,0318917923,Hải Phòng,103,21/05/2026,Đã nghỉ việc,Công nhân may
+10300184,Bùi Văn Bảo,26/01/2005,Nam,0888060195,Đắk Lắk,103,09/03/2022,Đã nghỉ việc,Công nhân may
+10300185,Lý Đức Phúc,19/07/2000,Nam,0780399629,Bình Dương,103,05/07/2022,Đang làm,Công nhân may
+10300186,Hoàng Xuân Nghĩa,25/10/1975,Nam,0861288766,Đắk Lắk,103,06/08/2026,Đang làm,Công nhân may
+10300187,Lý Minh Tuyền,08/01/1978,Nữ,0856946534,Cần Thơ,103,15/08/2026,Đã nghỉ việc,Công nhân may
+10300188,Dương Xuân Linh,03/04/1988,Nữ,0748593352,Đà Nẵng,103,31/07/2024,Đang làm,Công nhân may
+10300189,Bùi Hữu Bình,12/10/1981,Nam,0873834897,Hải Phòng,103,30/01/2026,Đang làm,Công nhân may
+10300190,Ngô Thị Nga,15/12/1994,Nữ,0946116094,Hà Nội,103,26/12/2025,Đang làm,Công nhân cắt vải
+10300191,Trần Văn Tiến,25/12/1988,Nam,0849340392,Hồ Chí Minh,103,11/07/2022,Đang làm,Phó quản đốc
+10300192,Hoàng Đức Nghĩa,01/03/1970,Nam,0954920773,Đắk Lắk,103,19/02/2022,Đang làm,Công nhân may
+10300193,Lý Ngọc Thủy,02/07/2001,Nữ,0956623626,Hồ Chí Minh,103,15/06/2025,Đang làm,Công nhân may
+10300194,Nguyễn Xuân Thủy,25/04/1985,Nữ,0854883944,Nghệ An,103,19/04/2022,Đã nghỉ việc,Công nhân may
+10300195,Ngô Hữu Tuấn,14/05/1998,Nam,0392547449,Bình Dương,103,31/12/2021,Đang làm,Công nhân may
+10300196,Lý Ngọc Nga,01/01/1982,Nữ,0360732700,Hải Phòng,103,02/06/2022,Đang làm,Công nhân hoàn thiện - đóng gói
+10300197,Đặng Thu Nga,13/11/1985,Nữ,0371647959,Hà Nội,103,08/09/2022,Đang làm,Công nhân may
+10300198,Hoàng Minh Bảo,15/01/1992,Nam,0836434258,Thanh Hóa,103,24/04/2024,Đang làm,Công nhân hoàn thiện - đóng gói
+10300199,Phạm Minh Dũng,17/07/1988,Nam,0738599996,Quảng Ngãi,103,25/12/2024,Đang làm,Công nhân may
+10300200,Đỗ Ngọc Nhung,14/02/1973,Nữ,0899970701,Khánh Hòa,103,18/04/2022,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300201,Nguyễn Bích Châu,03/10/1993,Nữ,0862681471,Quảng Ngãi,103,21/03/2023,Đang làm,Công nhân may
+10300202,Phạm Đức Long,26/11/1991,Nam,0349786030,Quảng Nam,103,02/12/2023,Đang làm,Công nhân may
+10300203,Vũ Ngọc Đạt,07/10/1998,Nam,0855607454,Đà Nẵng,103,25/11/2021,Đang làm,Công nhân may
+10300204,Bùi Xuân Mai,01/01/1971,Nữ,0896902141,Thanh Hóa,103,25/05/2022,Đang làm,Công nhân may
+10300205,Võ Thị Thảo,10/02/1986,Nữ,0370375148,Đồng Nai,103,12/04/2024,Đang làm,Công nhân may
+10300206,Hoàng Đức Hiếu,03/02/2003,Nam,0915970683,Bình Dương,103,23/03/2024,Đang làm,Công nhân may
+10300207,Ngô Minh Phúc,24/10/1984,Nam,0975163160,Đắk Lắk,103,01/06/2026,Đang làm,Công nhân cắt vải
+10300208,Trần Xuân Yến,02/10/1975,Nữ,0762785090,Quảng Nam,103,31/07/2023,Đang làm,Công nhân may
+10300209,Vũ Đình Bình,18/06/1977,Nam,0839081310,Quảng Nam,103,09/08/2023,Đang làm,Công nhân cắt vải
+10300210,Phạm Thanh Thảo,09/10/1996,Nữ,0344232993,Đồng Nai,103,11/04/2025,Đang làm,Công nhân may
+10300211,Lý Văn Hải,06/12/1970,Nam,0380194421,Thanh Hóa,103,15/11/2022,Đang làm,Công nhân may
+10300212,Phan Thu Mai,07/10/1984,Nữ,0389193652,Cần Thơ,103,09/04/2024,Đang làm,Công nhân may
+10300213,Võ Thị Diệp,03/05/1985,Nữ,0847013639,Quảng Ngãi,103,20/03/2023,Đang làm,Công nhân may
+10300214,Lý Minh Trang,15/02/1990,Nữ,0868402432,Đắk Lắk,103,16/06/2026,Đang làm,Công nhân may
+10300215,Hồ Ngọc Linh,21/04/1986,Nữ,0362274241,Nghệ An,103,05/05/2023,Đang làm,Công nhân may
+10300216,Trần Bích Hằng,11/11/1976,Nữ,0821219020,Nghệ An,103,29/03/2023,Đang làm,Công nhân cắt vải
+10300217,Đỗ Thanh Hoa,11/09/2002,Nữ,0728656982,Khánh Hòa,103,25/11/2024,Đang làm,Công nhân may
+10300218,Đặng Quang Bảo,24/04/1988,Nam,0987657448,Hà Nội,103,04/09/2023,Đang làm,Công nhân may
+10300219,Ngô Bích Phương,16/09/1973,Nữ,0756726129,Hồ Chí Minh,103,17/05/2026,Đang làm,Công nhân may
+10300220,Huỳnh Văn Dũng,05/04/1993,Nam,0937629502,Cần Thơ,103,20/08/2025,Đang làm,Công nhân may
+10300221,Đặng Thị Diệp,03/05/1994,Nữ,0948222545,Thanh Hóa,103,05/04/2024,Đang làm,Công nhân may
+10300222,Võ Ngọc Hương,25/08/1997,Nữ,0725094530,Hà Nội,103,30/06/2026,Đang làm,Công nhân hoàn thiện - đóng gói
+10300223,Phạm Minh Mai,10/03/1971,Nữ,0989832589,Đà Nẵng,103,11/08/2023,Đang làm,Công nhân may
+10300224,Hoàng Xuân Trung,04/12/2001,Nam,0370066555,Quảng Nam,103,01/11/2024,Đang làm,Công nhân may
+10300225,Dương Quang Dũng,04/04/1973,Nam,0753701781,Hải Phòng,103,06/11/2023,Đang làm,Công nhân may
+10300226,Đặng Minh Ngọc,15/11/1991,Nữ,0879529303,Quảng Ngãi,103,01/10/2026,Đang làm,Công nhân cắt vải
+10300227,Huỳnh Ngọc Lan,19/11/1983,Nữ,0827750669,Đà Nẵng,103,26/02/2025,Đang làm,Công nhân may
+10300228,Hồ Bích Hoa,25/06/1992,Nữ,0839964395,Bình Dương,103,30/01/2022,Đang làm,Công nhân cắt vải
+10300229,Đỗ Quang Dũng,17/05/1998,Nam,0791247356,Thanh Hóa,103,18/03/2026,Đang làm,Công nhân may
+10300230,Phạm Xuân Thủy,25/02/1977,Nữ,0315202755,Đắk Lắk,103,04/08/2024,Đang làm,Công nhân cắt vải
+10300231,Vũ Ngọc Oanh,05/09/2003,Nữ,0705070200,Hải Phòng,103,25/08/2025,Đã nghỉ việc,Công nhân may
+10300232,Bùi Đình Long,23/10/1991,Nam,0358274493,Đà Nẵng,103,29/05/2022,Đang làm,Công nhân may
+10300233,Phan Hữu Hải,10/01/1976,Nam,0850791957,Cần Thơ,103,24/03/2025,Đang làm,Công nhân may
+10300234,Ngô Văn Long,27/12/2002,Nam,0791297244,Khánh Hòa,103,18/07/2026,Đang làm,Công nhân may
+10300235,Trần Xuân Lan,15/09/1987,Nữ,0847214470,Đồng Nai,103,03/02/2024,Đang làm,Công nhân cắt vải
+10300236,Bùi Đức Tuấn,10/04/1991,Nam,0742545629,Đắk Lắk,103,02/01/2024,Đã nghỉ việc,Công nhân may
+10300237,Nguyễn Xuân Tuyền,19/10/1975,Nữ,0984772791,Cần Thơ,103,16/04/2023,Đang làm,Công nhân may
+10300238,Lý Thanh Hương,26/08/1988,Nữ,0389700667,Hà Nội,103,21/03/2024,Đang làm,Công nhân may
+10300239,Ngô Thanh Thảo,10/12/1983,Nữ,0314783388,Hà Nội,103,24/05/2023,Đang làm,Công nhân may
+10300240,Dương Thị Nhung,21/05/1970,Nữ,0314692903,Hà Nội,103,28/09/2025,Đang làm,Công nhân may
+10300241,Phan Bích Diệp,16/02/1993,Nữ,0795438564,Quảng Ngãi,103,14/11/2021,Đang làm,Công nhân may
+10300242,Đỗ Hoàng Bi,19/08/2001,Nam,0759455498,Khánh Hòa,103,26/09/2026,Đang làm,Công nhân may
+10300243,Ngô Xuân Trang,14/04/2005,Nữ,0316302625,Nghệ An,103,17/06/2023,Đã nghỉ việc,Công nhân may
+10300244,Phan Ngọc Hải,17/12/1971,Nam,0834957114,Thanh Hóa,103,16/02/2023,Đang làm,Công nhân may
+10300245,Vũ Xuân Sơn,11/03/1985,Nam,0331887832,Thanh Hóa,103,27/06/2025,Đang làm,Công nhân may
+10300246,Ngô Hữu Bảo,06/09/1979,Nam,0928063893,Đồng Nai,103,28/06/2024,Đang làm,Công nhân may
+10300247,Bùi Đình Trung,03/02/2005,Nam,0931143524,Bình Dương,103,13/01/2025,Đang làm,Công nhân may
+10300248,Đặng Thị Mai,03/02/2004,Nữ,0746442448,Hải Phòng,103,19/07/2025,Đang làm,Công nhân hoàn thiện - đóng gói
+10300249,Nguyễn Minh Nhung,19/06/1983,Nữ,0897581931,Huế,103,26/12/2023,Đang làm,Công nhân cắt vải
+10300250,Vũ Bích Mai,17/11/1996,Nữ,0995303263,Thanh Hóa,103,03/11/2023,Đang làm,Công nhân hoàn thiện - đóng gói
+10300251,Dương Thanh Linh,05/02/1976,Nữ,0328177297,Nghệ An,103,25/07/2026,Đang làm,Công nhân may
+10300252,Đỗ Minh Châu,26/08/1987,Nữ,0922755500,Thanh Hóa,103,21/05/2023,Đang làm,Công nhân may
+10300253,Hồ Bích Lan,15/03/1996,Nữ,0306276379,Đắk Lắk,103,18/10/2025,Đã nghỉ việc,Công nhân may
+10300254,Bùi Minh Oanh,20/12/1974,Nữ,0342296581,Khánh Hòa,103,17/06/2025,Đang làm,Công nhân may
+10300255,Lê Quang Bình,01/09/1987,Nam,0972935398,Nghệ An,103,13/01/2025,Đang làm,Công nhân may
+10300256,Vũ Thu Thảo,09/09/1992,Nữ,0917457802,Đồng Nai,103,13/07/2025,Đang làm,Công nhân may
+10300257,Hoàng Minh Đạt,18/07/2001,Nam,0859371060,Cần Thơ,103,23/05/2025,Đang làm,Công nhân may
+10300258,Đặng Ngọc Sơn,15/03/1994,Nam,0395395889,Hồ Chí Minh,103,10/09/2022,Đang làm,Công nhân may
+10300259,Ngô Đức Thành,14/06/1980,Nam,0808985029,Cần Thơ,103,14/09/2025,Đã nghỉ việc,Công nhân cắt vải
+10300260,Bùi Văn Tuấn,10/07/1980,Nam,0712032151,Cần Thơ,103,12/01/2024,Đang làm,Công nhân cắt vải
+10300261,Ngô Xuân Kiên,03/10/1991,Nam,0719859009,Khánh Hòa,103,08/04/2025,Đang làm,Công nhân cắt vải
+10300262,Lý Xuân Hải,05/03/1983,Nam,0761578905,Quảng Ngãi,103,06/06/2025,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300263,Ngô Đức Tuấn,27/08/1992,Nam,0733396308,Khánh Hòa,103,04/03/2023,Đang làm,Công nhân may
+10300264,Lê Bích Phương,18/06/1986,Nữ,0851227580,Đà Nẵng,103,07/02/2022,Đang làm,Công nhân hoàn thiện - đóng gói
+10300265,Bùi Thu Tuyền,26/02/1979,Nữ,0718242692,Khánh Hòa,103,12/06/2025,Đang làm,Tổ trưởng sản xuất
+10300266,Đặng Hoàng Sơn,06/06/1992,Nam,0737996203,Quảng Nam,103,15/06/2025,Đang làm,Công nhân may
+10300267,Phan Xuân Bình,05/02/1974,Nam,0796248457,Hồ Chí Minh,103,15/08/2025,Đang làm,Công nhân may
+10300268,Ngô Hoàng Phúc,05/01/1987,Nam,0909812979,Đà Nẵng,103,23/10/2024,Đang làm,Công nhân may
+10300269,Dương Xuân Thảo,05/11/1987,Nữ,0322560161,Nghệ An,103,22/08/2024,Đang làm,Công nhân hoàn thiện - đóng gói
+10300270,Võ Đình Cường,16/02/1987,Nam,0987335656,Thanh Hóa,103,27/12/2022,Đang làm,Công nhân may
+10300271,Dương Thị Phương,06/12/1995,Nữ,0739565816,Bình Dương,103,10/02/2024,Đang làm,Công nhân may
+10300272,Phạm Đình Sơn,21/09/2005,Nam,0362018842,Hà Nội,103,20/05/2025,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300273,Huỳnh Ngọc Nhung,11/05/1978,Nữ,0844132401,Hồ Chí Minh,103,28/12/2025,Đang làm,Công nhân may
+10300274,Huỳnh Đức Dũng,04/07/1981,Nam,0755483193,Quảng Ngãi,103,02/04/2022,Đã nghỉ việc,Công nhân may
+10300275,Ngô Thanh Hằng,04/06/1992,Nữ,0359321416,Đắk Lắk,103,11/09/2023,Đang làm,Tổ trưởng sản xuất
+10300276,Đặng Thị Lan,10/06/1982,Nữ,0957729593,Thanh Hóa,103,23/02/2025,Đang làm,Công nhân may
+10300277,Lý Thị Tuyền,07/12/1982,Nữ,0717021177,Đồng Nai,103,16/05/2025,Đang làm,Công nhân cắt vải
+10300278,Lê Xuân Bi,08/02/2002,Nam,0318077365,Nghệ An,103,10/08/2025,Đang làm,Công nhân hoàn thiện - đóng gói
+10300279,Hoàng Quang Bình,26/09/1970,Nam,0375184144,Khánh Hòa,103,11/12/2024,Đang làm,Công nhân may
+10300280,Đỗ Quang Anh,10/10/2002,Nam,0727756379,Hồ Chí Minh,103,07/09/2026,Đang làm,Công nhân may
+10300281,Bùi Hữu Bi,27/03/1991,Nam,0940351645,Đà Nẵng,103,16/10/2024,Đã nghỉ việc,Công nhân may
+10300282,Bùi Xuân Mai,17/10/1975,Nữ,0950199789,Hà Nội,103,14/11/2021,Đang làm,Công nhân may
+10300283,Hoàng Xuân Trâm,16/05/1972,Nữ,0890770910,Đà Nẵng,103,01/10/2025,Đã nghỉ việc,Công nhân may
+10300284,Hoàng Đình Thành,12/09/1979,Nam,0784699835,Thanh Hóa,103,27/12/2025,Đang làm,Công nhân may
+10300285,Lê Xuân Hoa,06/09/1998,Nữ,0758765590,Đắk Lắk,103,09/03/2025,Đang làm,Công nhân may
+10300286,Đỗ Bích Mai,16/03/1971,Nữ,0353027201,Nghệ An,103,14/03/2026,Đang làm,Công nhân may
+10300287,Phan Quang Thắng,15/08/1996,Nam,0863957621,Khánh Hòa,103,02/06/2024,Đang làm,Công nhân cắt vải
+10300288,Huỳnh Ngọc Cường,24/07/1978,Nam,0358208866,Cần Thơ,103,19/10/2024,Đang làm,Công nhân hoàn thiện - đóng gói
+10300289,Lê Hoàng Thắng,13/01/1999,Nam,0710193862,Huế,103,06/04/2023,Đang làm,Công nhân may
+10300290,Nguyễn Thanh Trâm,03/06/1994,Nữ,0715313197,Hải Phòng,103,19/01/2023,Đang làm,Quản đốc sản xuất
+10300291,Võ Thu Linh,24/06/1992,Nữ,0967656237,Đồng Nai,103,22/09/2022,Đang làm,Công nhân may
+10300292,Hồ Ngọc Diệp,20/08/1975,Nữ,0903696806,Hồ Chí Minh,103,08/04/2025,Đang làm,Công nhân hoàn thiện - đóng gói
+10300293,Võ Thị Quyên,26/06/1973,Nữ,0850231622,Cần Thơ,103,10/10/2023,Đã nghỉ việc,Công nhân cắt vải
+10300294,Đỗ Đình Hiếu,02/07/1979,Nam,0942290734,Cần Thơ,103,15/05/2022,Đang làm,Công nhân cắt vải
+10300295,Bùi Minh Bi,25/07/2000,Nam,0927997625,Quảng Ngãi,103,30/06/2023,Đã nghỉ việc,Công nhân may
+10300296,Trần Đức Long,02/04/2001,Nam,0900788014,Quảng Nam,103,20/07/2026,Đã nghỉ việc,Công nhân cắt vải
+10300297,Ngô Ngọc Châu,12/05/1984,Nữ,0969128479,Hải Phòng,103,30/12/2025,Đang làm,Công nhân hoàn thiện - đóng gói
+10300298,Phan Xuân Trâm,26/12/1998,Nữ,0875600200,Hà Nội,103,17/07/2026,Đã nghỉ việc,Công nhân may
+10300299,Ngô Đình Bảo,15/12/1986,Nam,0383436889,Đắk Lắk,103,13/02/2022,Đang làm,Công nhân may
+10300300,Ngô Bích Ngọc,07/01/1984,Nữ,0815022132,Quảng Ngãi,103,13/11/2021,Đang làm,Công nhân may
+10300301,Nguyễn Ngọc Oanh,22/01/2004,Nữ,0933655812,Bình Dương,103,03/11/2023,Đang làm,Công nhân may
+10300302,Đặng Đức Nghĩa,01/11/2002,Nam,0361757264,Bình Dương,103,21/05/2024,Đang làm,Công nhân may
+10300303,Hồ Đức Phúc,12/07/1993,Nam,0811933378,Đà Nẵng,103,22/02/2026,Đang làm,Tổ trưởng sản xuất
+10300304,Vũ Thanh Thủy,22/06/2001,Nữ,0830316075,Huế,103,21/09/2026,Đang làm,Công nhân may
+10300305,Dương Minh Bình,04/06/1993,Nam,0815957696,Nghệ An,103,30/06/2026,Đang làm,Công nhân may
+10300306,Trần Bích Ngọc,05/07/1992,Nữ,0889781252,Quảng Nam,103,06/08/2023,Đang làm,Công nhân may
+10300307,Dương Xuân Phúc,20/02/2002,Nam,0797154810,Đắk Lắk,103,31/08/2025,Đang làm,Công nhân may
+10300308,Dương Hoàng Phúc,09/09/1999,Nam,0969289930,Hồ Chí Minh,103,22/08/2023,Đang làm,Công nhân may
+10300309,Lê Minh Phong,08/02/1989,Nam,0834682427,Đắk Lắk,103,16/10/2023,Đang làm,Công nhân may
+10300310,Lê Ngọc Kiên,19/04/1978,Nam,0906578999,Quảng Ngãi,103,22/01/2022,Đang làm,Công nhân may
+10300311,Đặng Xuân Long,05/02/1988,Nam,0850367980,Hải Phòng,103,11/03/2022,Đang làm,Công nhân cắt vải
+10300312,Đỗ Hoàng Tiến,13/10/1974,Nam,0787498341,Nghệ An,103,09/01/2023,Đang làm,Công nhân cắt vải
+10300313,Hồ Hữu Anh,20/11/1977,Nam,0988343342,Cần Thơ,103,08/06/2025,Đang làm,Công nhân may
+10300314,Huỳnh Minh Nhung,05/12/1979,Nữ,0336942885,Đắk Lắk,103,19/02/2026,Đang làm,Công nhân may
+10300315,Ngô Xuân Sơn,08/07/1974,Nam,0884348486,Hồ Chí Minh,103,18/04/2024,Đang làm,Phó quản đốc
+10300316,Ngô Quang Tuấn,26/08/1972,Nam,0900992444,Quảng Ngãi,103,18/07/2022,Đang làm,Công nhân hoàn thiện - đóng gói
+10300317,Đặng Văn Phúc,05/09/1983,Nam,0356965232,Cần Thơ,103,15/03/2023,Đang làm,Công nhân may
+10300318,Hồ Văn Long,01/06/1975,Nam,0931863391,Huế,103,24/10/2025,Đã nghỉ việc,Công nhân may
+10300319,Huỳnh Minh Thảo,01/02/1978,Nữ,0820883692,Nghệ An,103,13/03/2024,Đang làm,Tổ trưởng sản xuất
+10300320,Bùi Minh Hải,26/10/1976,Nam,0797953347,Đồng Nai,103,17/07/2022,Đang làm,Công nhân may
+10300321,Hoàng Thu Mai,13/04/1993,Nữ,0723465633,Hồ Chí Minh,103,13/05/2024,Đang làm,Công nhân cắt vải
+10300322,Hoàng Đình Dũng,11/10/1998,Nam,0710609025,Quảng Nam,103,29/12/2022,Đã nghỉ việc,Công nhân may
+10300323,Lý Hữu Đạt,02/06/1990,Nam,0778547445,Quảng Nam,103,31/05/2022,Đang làm,Tổ trưởng sản xuất
+10300324,Phạm Minh Bảo,08/03/1995,Nam,0845332731,Đà Nẵng,103,01/09/2024,Đang làm,Tổ trưởng sản xuất
+10300325,Đỗ Ngọc Diệp,03/02/1998,Nữ,0848953723,Đồng Nai,103,13/12/2021,Đang làm,Công nhân may
+10300326,Ngô Quang Bình,17/05/1972,Nam,0939837302,Đồng Nai,103,02/11/2023,Đang làm,Công nhân may
+10300327,Ngô Hữu Cường,10/04/1982,Nam,0841272989,Cần Thơ,103,17/05/2026,Đang làm,Công nhân may
+10300328,Phạm Quang Hiếu,27/06/1988,Nam,0304124493,Đắk Lắk,103,10/05/2026,Đang làm,Công nhân may
+10300329,Hoàng Minh Linh,22/08/2000,Nữ,0737663468,Quảng Nam,103,21/08/2025,Đang làm,Tổ trưởng sản xuất
+10300330,Hoàng Đức Dũng,10/09/1977,Nam,0390952025,Nghệ An,103,21/06/2023,Đang làm,Công nhân may
+10300331,Phan Bích Tuyền,19/08/1997,Nữ,0852436772,Hà Nội,103,21/12/2021,Đang làm,Công nhân hoàn thiện - đóng gói
+10300332,Đặng Bích Hoa,20/03/1981,Nữ,0793077140,Hải Phòng,103,13/01/2025,Đang làm,Công nhân may
+10300333,Đỗ Văn Kiên,18/01/2003,Nam,0364241270,Hồ Chí Minh,103,09/09/2023,Đang làm,Công nhân may
+10300334,Hồ Quang Tuấn,10/04/1977,Nam,0796493255,Thanh Hóa,103,21/12/2022,Đang làm,Công nhân may
+10300335,Phạm Thu Trâm,09/04/1971,Nữ,0820254403,Cần Thơ,103,01/01/2022,Đang làm,Công nhân cắt vải
+10300336,Dương Hữu Trung,23/08/1971,Nam,0399981869,Hồ Chí Minh,103,26/09/2025,Đã nghỉ việc,Công nhân may
+10300337,Phan Ngọc Sơn,19/01/1984,Nam,0768959237,Bình Dương,103,23/05/2024,Đang làm,Công nhân may
+10300338,Phan Minh Tuyền,16/06/1974,Nữ,0821163602,Đà Nẵng,103,23/05/2023,Đang làm,Công nhân may
+10300339,Vũ Thu Thủy,14/06/1971,Nữ,0977803861,Đà Nẵng,103,18/02/2023,Đang làm,Công nhân cắt vải
+10300340,Hồ Xuân Kiên,08/04/1988,Nam,0855729370,Quảng Nam,103,08/08/2022,Đang làm,Công nhân may
+10300341,Phan Minh Phong,11/04/1987,Nam,0966027413,Quảng Nam,103,25/09/2025,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300342,Ngô Đức Cường,01/09/1972,Nam,0988230257,Nghệ An,103,07/10/2025,Đang làm,Công nhân may
+10300343,Nguyễn Ngọc Long,24/06/1978,Nam,0377603643,Hải Phòng,103,19/06/2022,Đã nghỉ việc,Công nhân may
+10300344,Hồ Hữu Đạt,13/10/1995,Nam,0868738339,Khánh Hòa,103,17/07/2025,Đang làm,Công nhân may
+10300345,Hoàng Bích Nhung,19/03/1990,Nữ,0991083968,Hồ Chí Minh,103,09/09/2022,Đang làm,Công nhân may
+10300346,Phạm Văn Bình,05/02/1988,Nam,0370790774,Bình Dương,103,18/01/2024,Đang làm,Công nhân cắt vải
+10300347,Bùi Bích Diệp,11/12/1986,Nữ,0843276033,Hải Phòng,103,22/01/2022,Đang làm,Công nhân may
+10300348,Bùi Xuân Nhân,04/02/1991,Nam,0909441731,Khánh Hòa,103,12/07/2022,Đang làm,Công nhân may
+10300349,Huỳnh Xuân Ngọc,12/06/1970,Nữ,0850131804,Đà Nẵng,103,15/08/2023,Đã nghỉ việc,Công nhân may
+10300350,Huỳnh Hoàng Dũng,09/06/2005,Nam,0863530924,Hồ Chí Minh,103,09/10/2024,Đang làm,Công nhân cắt vải
+10300351,Phạm Xuân Oanh,11/01/1970,Nữ,0973424978,Cần Thơ,103,07/02/2023,Đang làm,Công nhân may
+10300352,Đặng Văn Đạt,27/12/1986,Nam,0729148082,Hồ Chí Minh,103,25/07/2024,Đã nghỉ việc,Công nhân may
+10300353,Phạm Ngọc Lan,27/08/1993,Nữ,0734870188,Huế,103,03/06/2023,Đang làm,Công nhân hoàn thiện - đóng gói
+10300354,Phạm Xuân Trâm,08/05/2003,Nữ,0952689197,Bình Dương,103,04/08/2025,Đang làm,Công nhân may
+10300355,Bùi Thu Ngọc,09/04/1996,Nữ,0912658765,Hồ Chí Minh,103,04/05/2023,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300356,Hồ Đình Bình,12/12/1984,Nam,0324956854,Hà Nội,103,09/11/2025,Đang làm,Công nhân may
+10300357,Vũ Minh Linh,21/01/1979,Nữ,0803549133,Nghệ An,103,05/11/2025,Đang làm,Công nhân may
+10300358,Phan Đình Sơn,09/01/1970,Nam,0945143792,Nghệ An,103,14/07/2022,Đang làm,Công nhân may
+10300359,Phạm Minh Phương,07/03/1978,Nữ,0860152837,Khánh Hòa,103,04/06/2022,Đang làm,Công nhân may
+10300360,Lê Ngọc Linh,06/01/1978,Nữ,0862496756,Nghệ An,103,16/11/2023,Đang làm,Công nhân may
+10300361,Lê Xuân Hương,14/12/1994,Nữ,0868633479,Nghệ An,103,30/11/2022,Đang làm,Tổ trưởng sản xuất
+10300362,Lý Văn Tuấn,21/02/1971,Nam,0338976841,Quảng Ngãi,103,22/11/2025,Đã nghỉ việc,Công nhân hoàn thiện - đóng gói
+10300363,Hồ Bích Hoa,10/09/1971,Nữ,0812525549,Bình Dương,103,30/07/2026,Đã nghỉ việc,Công nhân may
+10300364,Phan Thị Linh,21/11/1977,Nữ,0373005766,Quảng Nam,103,26/04/2023,Đang làm,Công nhân cắt vải
+10300365,Trần Bích Hương,13/08/2004,Nữ,0956831070,Huế,103,26/12/2023,Đang làm,Công nhân cắt vải
+10300366,Phạm Minh Mai,25/08/1986,Nữ,0349050823,Quảng Ngãi,103,04/03/2026,Đang làm,Công nhân may
+10300367,Nguyễn Đức Phong,23/11/1991,Nam,0383440347,Hồ Chí Minh,103,07/05/2024,Đang làm,Công nhân may
+10300368,Huỳnh Hữu Anh,04/07/1984,Nam,0320038692,Bình Dương,103,26/12/2024,Đang làm,Công nhân hoàn thiện - đóng gói
+10300369,Hồ Thị Phương,03/12/1975,Nữ,0343710571,Hồ Chí Minh,103,09/12/2024,Đang làm,Công nhân may
+10300370,Hoàng Minh Thắng,20/02/1996,Nam,0811370437,Đồng Nai,103,10/04/2024,Đang làm,Công nhân may
+10300371,Dương Đình Nghĩa,10/09/1970,Nam,0809906043,Hải Phòng,103,03/01/2026,Đang làm,Công nhân may
+10300372,Dương Minh Hằng,15/07/1979,Nữ,0875492395,Hồ Chí Minh,103,23/02/2024,Đang làm,Công nhân may
+10300373,Ngô Đình Phúc,12/06/1989,Nam,0763902520,Đắk Lắk,103,11/04/2026,Đang làm,Công nhân may
+10300374,Huỳnh Ngọc Đạt,06/01/1974,Nam,0320312964,Cần Thơ,103,14/06/2025,Đang làm,Tổ trưởng sản xuất
+10300375,Đỗ Minh Quyên,15/01/1977,Nữ,0819254132,Cần Thơ,103,11/09/2023,Đang làm,Công nhân may
+10300376,Đặng Ngọc Hằng,26/11/1998,Nữ,0839722765,Hà Nội,103,09/01/2026,Đã nghỉ việc,Công nhân may
+10300377,Trần Hữu Phong,01/09/1979,Nam,0341451248,Đắk Lắk,103,09/02/2022,Đang làm,Công nhân may
+10300378,Vũ Đình Bảo,04/05/1980,Nam,0899409811,Đà Nẵng,103,23/10/2026,Đã nghỉ việc,Công nhân may
+10300379,Phạm Xuân Đạt,09/05/1974,Nam,0329088854,Hồ Chí Minh,103,07/12/2021,Đang làm,Công nhân hoàn thiện - đóng gói
+10300380,Hồ Văn Phúc,02/06/1978,Nam,0994769100,Bình Dương,103,20/09/2023,Đang làm,Công nhân may
+10300381,Võ Hoàng Sơn,04/03/1999,Nam,0797443329,Khánh Hòa,103,08/05/2026,Đang làm,Công nhân may
+10300382,Đỗ Hoàng Phúc,24/09/1991,Nam,0860103804,Đà Nẵng,103,14/07/2023,Đang làm,Công nhân may
+10300383,Hồ Quang Tuấn,23/07/1987,Nam,0809732402,Đồng Nai,103,04/08/2025,Đang làm,Công nhân may
+10300384,Phạm Xuân Long,07/02/1979,Nam,0759767204,Hồ Chí Minh,103,24/01/2024,Đang làm,Công nhân may
+10300385,Võ Thanh Linh,27/03/1976,Nữ,0762919572,Huế,103,22/05/2026,Đang làm,Công nhân cắt vải
+10300386,Ngô Đình Hiếu,11/03/1996,Nam,0315362979,Huế,103,18/06/2024,Đang làm,Công nhân may
+10300387,Ngô Thanh Lan,11/04/1999,Nữ,0922687695,Bình Dương,103,23/07/2023,Đang làm,Công nhân may
+10300388,Phạm Thị Nhung,14/01/1998,Nữ,0308757383,Quảng Nam,103,14/12/2022,Đang làm,Công nhân may
+10300389,Hồ Minh Kiên,07/03/1981,Nam,0783348972,Thanh Hóa,103,15/04/2025,Đã nghỉ việc,Công nhân cắt vải
+10300390,Ngô Văn Nghĩa,26/12/1970,Nam,0843877314,Hà Nội,103,01/07/2026,Đang làm,Công nhân hoàn thiện - đóng gói
+10300391,Vũ Xuân Phong,08/05/2002,Nam,0804521068,Bình Dương,103,29/07/2025,Đang làm,Công nhân hoàn thiện - đóng gói
+10300392,Phạm Thanh Thảo,20/01/2001,Nữ,0344521418,Hồ Chí Minh,103,15/11/2022,Đang làm,Công nhân may
+10300393,Đỗ Thu Nhung,16/09/1983,Nữ,0353455581,Đồng Nai,103,09/12/2024,Đang làm,Tổ trưởng sản xuất
+10300394,Lê Đình Tuấn,20/12/1978,Nam,0970363962,Hải Phòng,103,16/11/2022,Đang làm,Công nhân may
+10300395,Hoàng Minh Phương,01/11/1986,Nữ,0709730360,Cần Thơ,103,19/10/2025,Đang làm,Công nhân may
+10400396,Đỗ Hữu Bảo,19/02/1985,Nam,0772181144,Hồ Chí Minh,104,01/10/2023,Đang làm,Nhân viên kiểm tra chất lượng
+10400397,Huỳnh Xuân Linh,27/01/1976,Nữ,0778846982,Đà Nẵng,104,18/07/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400398,Vũ Đức Phong,03/12/1981,Nam,0831397473,Quảng Ngãi,104,21/10/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400399,Hoàng Văn Tuấn,14/11/1972,Nam,0809236401,Khánh Hòa,104,14/11/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400400,Huỳnh Thanh Nga,23/07/1988,Nữ,0771863724,Đắk Lắk,104,30/03/2023,Đang làm,Nhân viên kiểm tra chất lượng
+10400401,Dương Thu Tuyền,01/02/2005,Nữ,0834331433,Đà Nẵng,104,16/12/2022,Đang làm,Nhân viên kiểm tra chất lượng
+10400402,Phạm Quang Bình,19/02/1987,Nam,0736614019,Cần Thơ,104,18/02/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400403,Dương Minh Hương,26/09/1993,Nữ,0770782789,Khánh Hòa,104,19/05/2026,Đang làm,Tổ trưởng QC
+10400404,Hoàng Minh Trâm,19/02/1995,Nữ,0990327700,Đà Nẵng,104,26/06/2023,Đang làm,Nhân viên kiểm tra chất lượng
+10400405,Đặng Bích Thảo,27/11/1973,Nữ,0395931860,Đắk Lắk,104,14/10/2024,Đang làm,Nhân viên hồ sơ chất lượng
+10400406,Đặng Hoàng Thắng,25/03/1999,Nam,0970873445,Cần Thơ,104,06/05/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400407,Dương Hữu Phong,28/04/1971,Nam,0756261615,Đà Nẵng,104,04/05/2026,Đã nghỉ việc,Nhân viên hồ sơ chất lượng
+10400408,Hoàng Ngọc Kiên,12/06/1976,Nam,0333097072,Đà Nẵng,104,15/06/2023,Đang làm,Nhân viên kiểm tra chất lượng
+10400409,Lê Thị Thủy,27/08/1990,Nữ,0716983007,Khánh Hòa,104,26/01/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400410,Phạm Thị Hương,03/09/1982,Nữ,0766838264,Đắk Lắk,104,15/12/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400411,Hoàng Hữu Đạt,19/11/1979,Nam,0979874754,Thanh Hóa,104,10/09/2026,Đang làm,Nhân viên hồ sơ chất lượng
+10400412,Bùi Ngọc Bi,27/09/2002,Nam,0847727596,Hà Nội,104,02/02/2022,Đang làm,Nhân viên kiểm tra chất lượng
+10400413,Huỳnh Quang Bình,20/01/1990,Nam,0792354085,Khánh Hòa,104,19/08/2025,Đang làm,Trưởng phòng QC
+10400414,Đặng Thị Châu,16/10/1973,Nữ,0907012737,Hồ Chí Minh,104,22/09/2025,Đã nghỉ việc,Nhân viên kiểm tra chất lượng
+10400415,Nguyễn Thị Trang,09/09/1983,Nữ,0837059056,Quảng Ngãi,104,06/01/2023,Đang làm,Nhân viên kiểm tra chất lượng
+10400416,Ngô Xuân Thành,12/05/1981,Nam,0957620792,Hải Phòng,104,12/10/2025,Đang làm,Nhân viên hồ sơ chất lượng
+10400417,Dương Ngọc Tuấn,10/11/1996,Nam,0787851591,Hà Nội,104,13/08/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400418,Hồ Đức Phúc,05/12/1990,Nam,0881633278,Quảng Nam,104,04/12/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400419,Lê Đình Cường,09/01/1973,Nam,0783178660,Huế,104,01/06/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400420,Huỳnh Minh Yến,16/03/2001,Nữ,0928787749,Đồng Nai,104,09/04/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400421,Lý Bích Tuyền,28/07/1993,Nữ,0307691552,Khánh Hòa,104,30/01/2022,Đang làm,Nhân viên kiểm tra chất lượng
+10400422,Vũ Hoàng Dũng,05/02/1989,Nam,0924803287,Hải Phòng,104,13/10/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400423,Đặng Thanh Nga,21/01/1978,Nữ,0867538096,Bình Dương,104,03/01/2023,Đã nghỉ việc,Nhân viên kiểm tra chất lượng
+10400424,Hồ Thị Trâm,16/11/1994,Nữ,0904049791,Huế,104,10/07/2022,Đang làm,Nhân viên kiểm tra chất lượng
+10400425,Trần Xuân Sơn,16/08/1994,Nam,0762969236,Huế,104,10/01/2025,Đang làm,Tổ trưởng QC
+10400426,Nguyễn Xuân Linh,14/09/2004,Nữ,0823045301,Khánh Hòa,104,20/03/2022,Đang làm,Tổ trưởng QC
+10400427,Ngô Ngọc Đạt,24/09/1989,Nam,0348218849,Nghệ An,104,12/09/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400428,Vũ Đức Phong,12/11/1974,Nam,0346966289,Thanh Hóa,104,21/05/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400429,Nguyễn Hoàng Dũng,24/09/1983,Nam,0906361022,Đồng Nai,104,22/11/2024,Đang làm,Nhân viên hồ sơ chất lượng
+10400430,Bùi Ngọc Thủy,22/05/1998,Nữ,0873308961,Quảng Ngãi,104,27/10/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400431,Lê Xuân Tiến,16/06/1980,Nam,0790812806,Quảng Nam,104,19/01/2025,Đang làm,Tổ trưởng QC
+10400432,Hoàng Thu Phương,16/09/1988,Nữ,0925446832,Huế,104,10/07/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400433,Hoàng Ngọc Trâm,04/05/1992,Nữ,0386003690,Bình Dương,104,26/05/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400434,Trần Minh Quyên,19/03/1992,Nữ,0971360319,Hải Phòng,104,28/10/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400435,Trần Thu Lan,22/09/2004,Nữ,0913535819,Thanh Hóa,104,16/04/2022,Đang làm,Nhân viên kiểm tra chất lượng
+10400436,Võ Bích Nga,14/05/1995,Nữ,0963348523,Huế,104,16/05/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400437,Phan Hoàng Nghĩa,28/07/1973,Nam,0777582733,Hồ Chí Minh,104,24/12/2022,Đang làm,Nhân viên kiểm tra chất lượng
+10400438,Ngô Hữu Phong,09/12/1987,Nam,0880892857,Hồ Chí Minh,104,06/07/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400439,Lê Ngọc Long,20/09/1999,Nam,0727061386,Cần Thơ,104,17/09/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400440,Trần Bích Phương,18/10/1999,Nữ,0975890316,Đắk Lắk,104,27/07/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400441,Hồ Thu Yến,09/09/1990,Nữ,0929185746,Đắk Lắk,104,14/05/2023,Đã nghỉ việc,Nhân viên kiểm tra chất lượng
+10400442,Dương Bích Hương,09/08/1984,Nữ,0712938820,Đà Nẵng,104,20/09/2022,Đang làm,Nhân viên kiểm tra chất lượng
+10400443,Lý Thanh Phương,03/08/1974,Nữ,0962261686,Cần Thơ,104,21/07/2025,Đang làm,Nhân viên kiểm tra chất lượng
+10400444,Lý Xuân Mai,21/01/1985,Nữ,0983399493,Hồ Chí Minh,104,26/01/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400445,Đỗ Minh Hương,02/07/1976,Nữ,0979595174,Đồng Nai,104,27/01/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400446,Võ Đức Long,26/07/1983,Nam,0399708101,Đồng Nai,104,13/08/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400447,Lý Ngọc Trung,10/03/1976,Nam,0901567588,Thanh Hóa,104,04/12/2021,Đang làm,Nhân viên kiểm tra chất lượng
+10400448,Đặng Hữu Đạt,22/08/1995,Nam,0903865375,Quảng Nam,104,10/06/2026,Đang làm,Nhân viên kiểm tra chất lượng
+10400449,Phan Xuân Quyên,24/07/1973,Nữ,0881949441,Cần Thơ,104,06/09/2024,Đang làm,Nhân viên kiểm tra chất lượng
+10400450,Dương Đình Hải,17/03/1989,Nam,0763865735,Quảng Nam,104,03/02/2023,Đang làm,Nhân viên kiểm tra chất lượng
+10500451,Phan Minh Hải,04/06/1997,Nam,0857852630,Hà Nội,105,26/10/2025,Đang làm,Nhân viên kho
+10500452,Lý Quang Cường,08/09/1973,Nam,0784818299,Khánh Hòa,105,22/08/2025,Đang làm,Nhân viên kho
+10500453,Nguyễn Ngọc Hiếu,02/06/1973,Nam,0754501489,Đắk Lắk,105,07/02/2024,Đang làm,Nhân viên kho
+10500454,Vũ Minh Bình,24/06/2000,Nam,0305377124,Cần Thơ,105,29/04/2025,Đang làm,Nhân viên kho
+10500455,Lê Ngọc Ngọc,25/05/1997,Nữ,0896763128,Hồ Chí Minh,105,14/12/2022,Đang làm,Nhân viên kho
+10500456,Hồ Văn Hiếu,20/11/1983,Nam,0394434768,Đồng Nai,105,20/09/2025,Đang làm,Nhân viên kho
+10500457,Phạm Xuân Trâm,02/01/1983,Nữ,0763423921,Huế,105,15/02/2022,Đang làm,Nhân viên kho
+10500458,Đặng Thu Linh,22/01/1995,Nữ,0953590329,Hồ Chí Minh,105,27/09/2025,Đang làm,Nhân viên kho
+10500459,Hồ Thị Diệp,14/09/1975,Nữ,0760023792,Khánh Hòa,105,28/05/2022,Đang làm,Nhân viên kho
+10500460,Đỗ Minh Trung,09/07/1984,Nam,0983786796,Thanh Hóa,105,01/05/2026,Đang làm,Nhân viên kho
+10500461,Nguyễn Đức Nhân,11/12/2004,Nam,0923817501,Hải Phòng,105,03/09/2024,Đang làm,Nhân viên kho
+10500462,Vũ Ngọc Sơn,07/10/1992,Nam,0800836608,Quảng Ngãi,105,15/05/2022,Đang làm,Nhân viên vận hành xe nâng
+10500463,Phan Ngọc Ngọc,27/11/1987,Nữ,0786993446,Hồ Chí Minh,105,03/10/2025,Đang làm,Nhân viên kho
+10500464,Phan Đình Đạt,27/01/1993,Nam,0999601823,Khánh Hòa,105,12/12/2024,Đang làm,Nhân viên vận hành xe nâng
+10500465,Trần Hoàng Nhân,20/06/1996,Nam,0902235390,Cần Thơ,105,13/07/2022,Đang làm,Trưởng kho
+10500466,Đặng Thanh Thảo,02/06/2002,Nữ,0702039286,Đồng Nai,105,26/02/2025,Đã nghỉ việc,Nhân viên quản lý nguyên vật liệu
+10500467,Võ Minh Lan,22/06/2005,Nữ,0814312745,Đà Nẵng,105,25/10/2023,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500468,Huỳnh Thu Mai,08/11/1971,Nữ,0971492162,Cần Thơ,105,27/01/2023,Đã nghỉ việc,Nhân viên kho
+10500469,Huỳnh Quang Tuấn,04/10/1982,Nam,0868270179,Nghệ An,105,25/11/2021,Đang làm,Nhân viên kho
+10500470,Vũ Hoàng Trung,08/03/2001,Nam,0867689832,Quảng Ngãi,105,25/09/2022,Đang làm,Nhân viên kho
+10500471,Huỳnh Đức Phúc,03/09/1983,Nam,0311041827,Bình Dương,105,05/02/2022,Đang làm,Nhân viên kho
+10500472,Hoàng Xuân Phong,17/09/1970,Nam,0863247768,Quảng Ngãi,105,14/04/2025,Đã nghỉ việc,Nhân viên kho
+10500473,Vũ Minh Nga,04/02/1975,Nữ,0814937294,Thanh Hóa,105,28/10/2022,Đã nghỉ việc,Nhân viên kho
+10500474,Ngô Quang Thành,11/02/1981,Nam,0944486151,Cần Thơ,105,12/11/2021,Đang làm,Nhân viên kho
+10500475,Phạm Hữu Nhân,04/03/1974,Nam,0856465907,Đà Nẵng,105,08/12/2021,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500476,Lê Bích Hằng,25/12/1998,Nữ,0813800577,Khánh Hòa,105,04/09/2026,Đã nghỉ việc,Nhân viên vận hành xe nâng
+10500477,Trần Đức Sơn,02/05/2000,Nam,0727764300,Quảng Ngãi,105,24/09/2024,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500478,Lý Hữu Tiến,04/11/1991,Nam,0845553329,Bình Dương,105,29/11/2021,Đang làm,Nhân viên vận hành xe nâng
+10500479,Lý Bích Trâm,12/09/1973,Nữ,0779411680,Quảng Nam,105,07/09/2025,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500480,Đặng Đức Thắng,28/09/1998,Nam,0787338258,Khánh Hòa,105,30/05/2024,Đang làm,Nhân viên kho
+10500481,Nguyễn Thu Linh,19/05/1999,Nữ,0346645888,Khánh Hòa,105,22/10/2024,Đang làm,Nhân viên kho
+10500482,Ngô Quang Kiên,24/11/2001,Nam,0912235021,Đồng Nai,105,13/05/2023,Đang làm,Nhân viên kho
+10500483,Vũ Thị Hương,07/04/1984,Nữ,0781145093,Quảng Nam,105,20/02/2023,Đang làm,Nhân viên kho
+10500484,Võ Hoàng Bi,01/03/1996,Nam,0715684456,Hồ Chí Minh,105,05/09/2022,Đã nghỉ việc,Nhân viên quản lý nguyên vật liệu
+10500485,Phan Xuân Hiếu,04/12/1978,Nam,0361291331,Huế,105,23/10/2026,Đang làm,Nhân viên vận hành xe nâng
+10500486,Nguyễn Thu Hằng,24/04/1986,Nữ,0851760198,Bình Dương,105,16/03/2022,Đang làm,Nhân viên vận hành xe nâng
+10500487,Bùi Ngọc Long,17/07/1990,Nam,0822399182,Hà Nội,105,30/04/2023,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500488,Trần Thanh Lan,26/12/1971,Nữ,0718593961,Đà Nẵng,105,28/01/2023,Đang làm,Nhân viên kho
+10500489,Huỳnh Quang Sơn,22/03/1990,Nam,0730635706,Thanh Hóa,105,12/02/2023,Đang làm,Nhân viên kho
+10500490,Phạm Quang Long,06/01/1981,Nam,0953065501,Huế,105,21/06/2025,Đang làm,Nhân viên kho
+10500491,Trần Minh Ngọc,06/12/1981,Nữ,0933122306,Hà Nội,105,06/07/2026,Đang làm,Nhân viên kho
+10500492,Lý Văn Long,20/12/1998,Nam,0329987268,Đà Nẵng,105,29/07/2025,Đang làm,Nhân viên kho
+10500493,Đỗ Xuân Hoa,03/07/2000,Nữ,0864205333,Hà Nội,105,11/01/2024,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500494,Trần Xuân Nhân,06/07/2002,Nam,0904039487,Quảng Nam,105,12/01/2022,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500495,Lý Văn Phúc,15/07/1977,Nam,0814185938,Hải Phòng,105,17/01/2022,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500496,Trần Thanh Quyên,22/10/1986,Nữ,0975920800,Hải Phòng,105,01/01/2023,Đang làm,Nhân viên kho
+10500497,Võ Minh Hương,25/04/1982,Nữ,0729923399,Đồng Nai,105,21/08/2023,Đang làm,Phó kho
+10500498,Võ Thanh Thảo,05/06/1979,Nữ,0388420559,Hồ Chí Minh,105,30/03/2023,Đang làm,Nhân viên quản lý nguyên vật liệu
+10500499,Dương Văn Nhân,15/09/1983,Nam,0721456133,Đà Nẵng,105,01/12/2022,Đang làm,Nhân viên kho
+10500500,Phan Xuân Châu,08/01/2003,Nữ,0893713515,Quảng Nam,105,05/01/2026,Đang làm,Nhân viên quản lý nguyên vật liệu

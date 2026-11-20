@@ -1,0 +1,27 @@
+#ifndef ACCOUNT_SERVICE_H
+#define ACCOUNT_SERVICE_H
+
+#include "../Repositories/AccountRepository.h"
+#include "../Repositories/EmployeeRepository.h"
+#include <string>
+#include <vector>
+using namespace std;
+
+class AccountService{
+private:
+    AccountRepository accountRepository;
+    EmployeeRepository employeeRepository;
+
+public:
+    AccountService();
+
+    bool login(const string& NV_ID, const string& pass, Account& loginAccount, string& message);
+    bool changePassword(string NV_ID, string oldPass, string newPass, string& message);
+    bool createAccount(string NV_ID, string role);
+    bool lockAccount(string NV_ID, string& message);
+    bool unlockAccount(string NV_ID, string& message);
+
+    vector<Account> getAllAccounts();
+};
+
+#endif

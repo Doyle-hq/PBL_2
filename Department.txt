@@ -1,0 +1,6 @@
+Department
+101,Hanh chinh - Nhan su
+102,Ke toan
+103,San xuat
+104,Quan ly chat luong
+105,Kho van
